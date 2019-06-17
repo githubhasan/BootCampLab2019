@@ -1,0 +1,10 @@
+{
+  "web": {
+    "client_id": "99405503818-lipmrfjgtvocvfbd1l5cbk9equkehjpn.apps.googleusercontent.com",
+    "project_id": "webautomation",
+    "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+    "token_uri": "https://oauth2.googleapis.com/token",
+    "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+    "client_secret": "TFgrVw5aJSgWZsh9MoUPM9Vk"
+  }
+}
