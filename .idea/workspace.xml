@@ -2,34 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="17b826c5-faf3-4f4c-ae2c-3ed1ca6ab494" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Amazon/Amazon.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Amazon/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Generic/Generic.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Generic/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Generic/src/main/java/base/CommonAPI.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Generic/src/main/java/databases/ConnectToMongoDB.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Generic/src/main/java/databases/ConnectToSqlDB.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Generic/src/main/java/databases/User.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Generic/src/main/java/reporting/ExtentManager.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Generic/src/main/java/reporting/ExtentTestManager.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Generic/src/main/java/reporting/TestLogger.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Generic/src/main/java/utility/BrowserFactory.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Generic/src/main/java/utility/DataReaderForSignup.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Generic/src/main/java/utility/ExcelReader.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Generic/src/resources/Book.xls" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Generic/src/resources/client_id.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Generic/src/resources/drivers/IEDriverServer.exe" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Generic/src/resources/drivers/chromedriver" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Generic/src/resources/drivers/chromedriver.exe" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Generic/src/resources/drivers/geckodriver" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Generic/src/resources/drivers/geckodriver.exe" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Generic/src/resources/mongodb-driver/mongo-java-driver-3.4.0.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Generic/src/resources/secret.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Generic/src/resources/sql-driver/mysql-connector-java-8.0.13.jar" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Amazon/Extent-Report/ExtentReport.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
@@ -48,56 +22,52 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Amazon/src/test/java/signinpagetest/SignInTest.java">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Amazon/src/test/java/searchTest/TagNamePageTest.java">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Amazon/src/test/java/loginPageTest/LoginPageTest1.java">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Amazon/src/test/java/loginPageTest/VerifyValidLogin.java">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Amazon/src/test/java/menuPage/MenuPageTest.java">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Amazon/src/test/java/homePageTest/TestHomePage.java">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Amazon/src/test/java/loginPageTest/LoginPageTest.java">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Amazon/src/test/java/randomTests/RandomTests.java">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/.gitignore">
           <provider selected="true" editor-type-id="text-editor" />
         </entry>
       </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Generic/pom.xml">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1065">
-              <caret line="71" selection-start-line="71" selection-end-line="71" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Amazon/src/main/java/homePage/HomePage.java">
-          <provider selected="true" editor-type-id="text-editor" />
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Amazon/src/main/java/searchFeather/SearchFeature.java">
-          <provider selected="true" editor-type-id="text-editor" />
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Amazon/src/main/java/loginPage/LoginPage.java">
-          <provider selected="true" editor-type-id="text-editor" />
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Amazon/src/main/java/dataSource/DatabaseOperation.java">
-          <provider selected="true" editor-type-id="text-editor" />
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Amazon/src/main/java/searchPages/SearchPage.java">
-          <provider selected="true" editor-type-id="text-editor" />
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Amazon/src/main/java/loginPage/LoginPageNew.java">
-          <provider selected="true" editor-type-id="text-editor" />
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Amazon/src/main/java/dropdownmenu/FetchDropDown.java">
-          <provider selected="true" editor-type-id="text-editor" />
-        </entry>
-      </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/Amazon/src/main/java/searchPages/TagNamePage.java">
+        <entry file="file://$PROJECT_DIR$/Amazon/Extent-Report/ExtentReport.html">
           <provider selected="true" editor-type-id="text-editor" />
         </entry>
       </file>
@@ -114,6 +84,7 @@
         <option value="$PROJECT_DIR$/Amazon/pom.xml" />
         <option value="$PROJECT_DIR$/pom.xml" />
         <option value="$PROJECT_DIR$/Amazon/src/main/java/searchPages/TagNamePage.java" />
+        <option value="$PROJECT_DIR$/Amazon/src/test/java/randomTests/RandomTests.java" />
       </list>
     </option>
   </component>
@@ -150,81 +121,6 @@
               <item name="BootCampLab2019" type="462c0819:PsiDirectoryNode" />
               <item name="Amazon" type="462c0819:PsiDirectoryNode" />
             </path>
-            <path>
-              <item name="BootCampLab2019" type="b2602c69:ProjectViewProjectNode" />
-              <item name="BootCampLab2019" type="462c0819:PsiDirectoryNode" />
-              <item name="Amazon" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="BootCampLab2019" type="b2602c69:ProjectViewProjectNode" />
-              <item name="BootCampLab2019" type="462c0819:PsiDirectoryNode" />
-              <item name="Amazon" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="BootCampLab2019" type="b2602c69:ProjectViewProjectNode" />
-              <item name="BootCampLab2019" type="462c0819:PsiDirectoryNode" />
-              <item name="Amazon" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="BootCampLab2019" type="b2602c69:ProjectViewProjectNode" />
-              <item name="BootCampLab2019" type="462c0819:PsiDirectoryNode" />
-              <item name="Amazon" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="dataSource" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="BootCampLab2019" type="b2602c69:ProjectViewProjectNode" />
-              <item name="BootCampLab2019" type="462c0819:PsiDirectoryNode" />
-              <item name="Amazon" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="dropdownmenu" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="BootCampLab2019" type="b2602c69:ProjectViewProjectNode" />
-              <item name="BootCampLab2019" type="462c0819:PsiDirectoryNode" />
-              <item name="Amazon" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="homePage" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="BootCampLab2019" type="b2602c69:ProjectViewProjectNode" />
-              <item name="BootCampLab2019" type="462c0819:PsiDirectoryNode" />
-              <item name="Amazon" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="loginPage" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="BootCampLab2019" type="b2602c69:ProjectViewProjectNode" />
-              <item name="BootCampLab2019" type="462c0819:PsiDirectoryNode" />
-              <item name="Amazon" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="searchFeather" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="BootCampLab2019" type="b2602c69:ProjectViewProjectNode" />
-              <item name="BootCampLab2019" type="462c0819:PsiDirectoryNode" />
-              <item name="Amazon" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="searchPages" type="462c0819:PsiDirectoryNode" />
-            </path>
           </expand>
           <select />
         </subPane>
@@ -233,15 +129,16 @@
   </component>
   <component name="PropertiesComponent">
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/Amazon/src/test/java" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/Amazon" />
     <property name="settings.editor.selected.configurable" value="reference.projectsettings.compiler.javacompiler" />
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/Amazon" />
+      <recent name="$PROJECT_DIR$/Amazon/src/test/java" />
+      <recent name="$PROJECT_DIR$/Amazon/src/main/resources" />
       <recent name="$PROJECT_DIR$/Amazon/src/main/java" />
       <recent name="$PROJECT_DIR$" />
-      <recent name="$PROJECT_DIR$/Generic/src/resources" />
-      <recent name="$PROJECT_DIR$/Generic/src/main/java" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -271,7 +168,6 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="617" y="23" width="663" height="777" extended-state="0" />
-    <editor active="true" />
     <layout>
       <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.44122383" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
@@ -349,9 +245,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/.gitignore">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
     <entry file="file://$PROJECT_DIR$/Generic/pom.xml">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="1065">
@@ -381,6 +274,45 @@
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
     <entry file="file://$PROJECT_DIR$/Amazon/src/main/java/searchPages/TagNamePage.java">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Amazon/src/main/resources/amazonTestRunnerFile.xml">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Amazon/src/test/java/dropDownMenu/TestDropDown.java">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Amazon/src/test/java/homePageTest/HomePageTest.java">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Amazon/src/test/java/signinpagetest/SignInTest.java">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Amazon/src/test/java/searchTest/TagNamePageTest.java">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Amazon/src/test/java/loginPageTest/LoginPageTest1.java">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Amazon/src/test/java/loginPageTest/VerifyValidLogin.java">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Amazon/src/test/java/menuPage/MenuPageTest.java">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Amazon/src/test/java/homePageTest/TestHomePage.java">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Amazon/src/test/java/loginPageTest/LoginPageTest.java">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Amazon/src/test/java/randomTests/RandomTests.java">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.gitignore">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Amazon/Extent-Report/ExtentReport.html">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
   </component>
