@@ -14,8 +14,8 @@ public class LoginPage extends CommonAPI {
     WebElement password;
 
     public String validateLoginPageTitle() {
-        username.sendKeys("miah_monir@yahooo.com");
-        password.sendKeys("rahimam12");
+        username.sendKeys("shokat_hasan@yahooo.com");
+        password.sendKeys("aA9175004510");
         loginBtn.click();
         return driver.getTitle();
     }
@@ -68,11 +68,11 @@ public class LoginPage extends CommonAPI {
     public static WebElement resignupemail;
 
     public String checkfirstname() {
-        firstname.sendKeys("Monir", Keys.ENTER);
-        lastname.sendKeys("Miah", Keys.ENTER);
-        signupemail.sendKeys("monir.miah0910@gmail.com", Keys.ENTER);
-        resignupemail.sendKeys("monir.miah0910@gmail.com", Keys.ENTER);
-        newpassword.sendKeys("abcd123456", Keys.ENTER);
+        firstname.sendKeys("MD", Keys.ENTER);
+        lastname.sendKeys("Hasan", Keys.ENTER);
+        signupemail.sendKeys("shokat_hasan@yahooo.com", Keys.ENTER);
+        resignupemail.sendKeys("shokat_hasan@yahooo.com", Keys.ENTER);
+        newpassword.sendKeys("aA9175004510", Keys.ENTER);
         month.sendKeys("May");
         day.sendKeys("6");
         year.sendKeys("1997");
@@ -260,6 +260,4 @@ public class LoginPage extends CommonAPI {
 
 
     }
-
-
 }

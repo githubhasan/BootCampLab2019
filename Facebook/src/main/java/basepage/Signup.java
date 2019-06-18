@@ -73,14 +73,14 @@ public class Signup extends CommonAPI {
 
         //Methods
         public void signup() throws InterruptedException {
-            firstname.sendKeys("Monir", Keys.TAB, "Miah", Keys.TAB, "Email", Keys.TAB, "password",
+            firstname.sendKeys("MD", Keys.TAB, "Hasan", Keys.TAB, "Email", Keys.TAB, "password",
                     Keys.TAB, Keys.ARROW_DOWN, Keys.ENTER, Keys.TAB, Keys.ARROW_DOWN, Keys.ENTER, Keys.TAB,
                     Keys.ARROW_DOWN, Keys.ENTER, Keys.TAB, Keys.TAB, Keys.ARROW_RIGHT, Keys.ENTER);
             Thread.sleep(1000);
         }
 
         public void login() throws InterruptedException {
-            useremail.sendKeys("selenium925@gmail.com");
+            useremail.sendKeys("selenium321@gmail.com");
             password.sendKeys("(qazxsw)1234", Keys.ENTER);
             Thread.sleep(1000);
         }
@@ -164,28 +164,6 @@ public class Signup extends CommonAPI {
             Thread.sleep(1000);
             return discoverplacesbanner.isDisplayed();
         }
-
-
-
-
-
-       // Landing pages
-
-//        public NewsFeed gotonewsfeedPage() throws InterruptedException {
-//            new Signup();
-//            return new NewsFeed();}
-//        public void gotoplacespage(){
-//            footerPlaces.click();
-//        }
-//        public void gotopagecatagories(){
-//            footerpagecatagories.click();
-//        }
-//        public void gotopages(){
-//            footerpages.click();
-//        }
-//        public void gotoprofiles(){
-//            footerProfiles.click();
-//        }
 
     }
 

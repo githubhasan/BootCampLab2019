@@ -1,6 +1,6 @@
-import baseApi.Base;
+import base.Base;
 import org.testng.annotations.Test;
-import utiliy.DataReader;
+import utility.DataReader;
 
 import java.io.IOException;
 

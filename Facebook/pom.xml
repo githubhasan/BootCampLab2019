@@ -45,7 +45,12 @@
             <version>v4-rev20190508-1.28.0</version>
             <scope>compile</scope>
         </dependency>
+<!--        <dependency>-->
+<!--            <groupId>Web-Automation</groupId>-->
+<!--            <artifactId>Generic</artifactId>-->
+<!--            <version>1.0-SNAPSHOT</version>-->
+<!--            <scope>test</scope>-->
+<!--        </dependency>-->
     </dependencies>
-
 
 </project>

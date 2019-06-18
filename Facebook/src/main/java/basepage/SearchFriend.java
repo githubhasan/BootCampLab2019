@@ -15,7 +15,7 @@ public class SearchFriend extends XlsxData {
     }
 
     public void Search() {
-        SearchFriend.sendKeys("Barak Obama");
+        SearchFriend.sendKeys("Showkat Hasan");
 
     }
 

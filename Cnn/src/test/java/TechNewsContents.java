@@ -1,3 +1,4 @@
+import news.CnnBase;
 import news.Pages;
 import org.openqa.selenium.support.PageFactory;
 import org.testng.Assert;

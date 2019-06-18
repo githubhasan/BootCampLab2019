@@ -10,12 +10,12 @@
 //import java.io.IOException;
 //
 //public class GoogleSheetTest extends GoogleSheetSignin {
-//    GoogleSheetSignin LoginPage;
+//    basepage.LoginPage LoginPage;
 //    private WebDriver driver;
 //
 //
 //    @BeforeMethod
-//    public void initElements() {
+//    public void initElements() throws IOException, InterruptedException {
 //        TestLogger.log(getClass().getSimpleName() + ": " + convertToString(new Object() {
 //        }.getClass().getEnclosingMethod().getName()));
 //        LoginPage = PageFactory.initElements(driver, basepage.LoginPage.class);
