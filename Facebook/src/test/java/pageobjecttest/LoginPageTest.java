@@ -1,6 +1,7 @@
 package pageobjecttest;
+
 import basepage.LoginPage;
-import database.ConnectToSqlDB;
+import databases.ConnectToSqlDB;
 import org.openqa.selenium.support.PageFactory;
 import org.testng.annotations.AfterMethod;
 import org.testng.annotations.BeforeMethod;
