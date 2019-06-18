@@ -12,7 +12,8 @@ public class IteamsToBeSearched extends  CommonAPI{
             String path = System.getProperty("user.dir")+"C:\\Users\\Ali\\Team_3_Framework_Project\\Cigna\\data\\SearchIteams.xlsx";
             String [] data = dr.colReader(path,3);
             Thread.sleep(3000);
-            return data;
+
+           return data;
         }
         public String[] getDataFromExcelFileForFeaturesChoice() throws IOException, InterruptedException {
             String path = System.getProperty("user.dir")+"C:\\Users\\Ali\\Team_3_Framework_Project\\Cigna\\data\\features.xlsx";
@@ -20,6 +21,6 @@ public class IteamsToBeSearched extends  CommonAPI{
             Thread.sleep(3000);
             return data;
         }
-        
+
     }
 
