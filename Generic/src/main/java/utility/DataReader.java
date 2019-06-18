@@ -21,6 +21,7 @@ public class DataReader {
     Cell cell = null;
     FileOutputStream fio = null;
     int numberOfRows, numberOfCol, rowNum;
+
     public String[][] fileReader(String path)throws IOException{
         String [] [] data = {};
         File file = new File(path);
@@ -41,6 +42,29 @@ public class DataReader {
         }
         return  data;
     }
+
+
+    public String[] colReader(String path, int col) throws IOException {
+        String[] data = {};
+        File file = new File(path);
+        FileInputStream fis = new FileInputStream(file);
+        wb = new HSSFWorkbook(fis);
+        sheet = wb.getSheetAt(0);
+        numberOfRows = sheet.getLastRowNum();
+        numberOfCol = col;
+        data = new String[numberOfRows];
+
+        for (int i = 0; i < data.length; i++) {
+            HSSFRow rows = sheet.getRow(i + 1);
+            for (int j = 0; j < numberOfCol; j++) {
+                HSSFCell cell = rows.getCell(j);
+                String cellData = getCellValue(cell);
+                data[i] = cellData;
+            }
+        }
+        return data;
+    }
+
 
     public String getCellValue(HSSFCell cell){
         Object value = null;

@@ -3,8 +3,6 @@ package base;
 
 import com.relevantcodes.extentreports.ExtentReports;
 import com.relevantcodes.extentreports.LogStatus;
-import org.apache.commons.io.FileUtils;
-import org.apache.commons.lang3.StringUtils;
 import org.openqa.selenium.*;
 import org.openqa.selenium.chrome.ChromeDriver;
 import org.openqa.selenium.chrome.ChromeOptions;
@@ -19,8 +17,10 @@ import org.openqa.selenium.support.ui.WebDriverWait;
 import org.testng.ITestContext;
 import org.testng.ITestResult;
 import org.testng.annotations.*;
+import org.apache.commons.lang3.StringUtils;
 import reporting.ExtentManager;
 import reporting.ExtentTestManager;
+import org.apache.commons.io.FileUtils;
 import reporting.TestLogger;
 
 import java.io.File;
@@ -109,7 +109,7 @@ public class CommonAPI {
     public void setUp(@Optional("false") boolean useCloudEnv, @Optional("false") String cloudEnvName,
                       @Optional("OS X") String os, @Optional("10") String os_version, @Optional("chrome-options") String browserName, @Optional("34")
                               String browserVersion, @Optional("http://www.amazon.com") String url) throws IOException {
-        System.setProperty("webdriver.chrome.driver", "/Users/peoplentech/eclipse-workspace-March2018/SeleniumProject1/driver/chromedriver");
+        System.setProperty("webdriver.chrome.driver", "/Users/mdhasan/Documents/GitHub/BootCampLab2019/Generic/src/resources/drivers/chromedriver");
         if (useCloudEnv == true) {
             if (cloudEnvName.equalsIgnoreCase("browserstack")) {
                 getCloudDriver(cloudEnvName, browserstack_username, browserstack_accesskey, os, os_version, browserName, browserVersion);
@@ -128,30 +128,30 @@ public class CommonAPI {
     public WebDriver getLocalDriver(@Optional("mac") String OS, String browserName) {
         if (browserName.equalsIgnoreCase("chrome")) {
             if (OS.equalsIgnoreCase("OS X")) {
-                System.setProperty("webdriver.chrome.driver", "/Users/mdhasan/Desktop/GroupProject/Generic/src/resources/drivers/chromedriver");
+                System.setProperty("webdriver.chrome.driver", "/Users/mdhasan/Documents/GitHub/BootCampLab2019/Generic/src/resources/drivers/chromedriver");
             } else if (OS.equalsIgnoreCase("Windows")) {
-                System.setProperty("webdriver.chrome.driver", "/Users/mdhasan/Desktop/GroupProject/Generic/src/resources/drivers/chromedriver.exe");
+                System.setProperty("webdriver.chrome.driver", "/Users/mdhasan/Documents/GitHub/BootCampLab2019/Generic/src/resources/drivers/chromedriver.exe");
             }
             driver = new ChromeDriver();
         } else if (browserName.equalsIgnoreCase("chrome-options")) {
             ChromeOptions options = new ChromeOptions();
             options.addArguments("--disable-notifications");
             if (OS.equalsIgnoreCase("OS X")) {
-                System.setProperty("webdriver.chrome.driver", "/Users/mdhasan/Desktop/GroupProject/Generic/src/resources/drivers/chromedriver");
+                System.setProperty("webdriver.chrome.driver", "/Users/mdhasan/Documents/GitHub/BootCampLab2019/Generic/src/resources/drivers/chromedriver");
             } else if (OS.equalsIgnoreCase("Windows")) {
-                System.setProperty("webdriver.chrome.driver", "/Users/mdhasan/Desktop/GroupProject/Generic/src/resources/drivers/chromedriver.exe");
+                System.setProperty("webdriver.chrome.driver", "/Users/mdhasan/Documents/GitHub/BootCampLab2019/Generic/src/resources/drivers/chromedriver.exe");
             }
             driver = new ChromeDriver(options);
         } else if (browserName.equalsIgnoreCase("firefox")) {
             if (OS.equalsIgnoreCase("OS X")) {
-                System.setProperty("webdriver.gecko.driver", "/Users/mdhasan/Desktop/GroupProject/Generic/src/resources/drivers/geckodriver");
+                System.setProperty("webdriver.gecko.driver", "/Users/mdhasan/Documents/GitHub/BootCampLab2019/Generic/src/resources/drivers/geckodriver");
             } else if (OS.equalsIgnoreCase("Windows")) {
-                System.setProperty("webdriver.gecko.driver", "/Users/mdhasan/Desktop/GroupProject/Generic/src/resources/drivers/geckodriver.exe");
+                System.setProperty("webdriver.gecko.driver", "/Users/mdhasan/Documents/GitHub/BootCampLab2019/Generic/src/resources/drivers/geckodriver.exe");
             }
             driver = new FirefoxDriver();
 
         } else if (browserName.equalsIgnoreCase("ie")) {
-            System.setProperty("webdriver.ie.driver", "/Users/mdhasan/Desktop/GroupProject/Generic/src/resources/drivers/IEDriverServer.exe");
+            System.setProperty("webdriver.ie.driver", "/Users/mdhasan/Documents/GitHub/BootCampLab2019/Generic/src/resources/drivers/IEDriverServer.exe");
             driver = new InternetExplorerDriver();
         }
         return driver;

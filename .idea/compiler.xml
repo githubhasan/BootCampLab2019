@@ -7,8 +7,10 @@
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
         <module name="Generic" />
-        <module name="Amazon" />
+        <module name="Facebook" />
         <module name="Cnn" />
+        <module name="Cigna" />
+        <module name="Amazon" />
       </profile>
     </annotationProcessing>
   </component>
