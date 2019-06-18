@@ -2,24 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="17b826c5-faf3-4f4c-ae2c-3ed1ca6ab494" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Amazon/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Amazon/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Amazon/src/main/java/dataSource/DatabaseOperation.java" beforeDir="false" afterPath="$PROJECT_DIR$/Amazon/src/main/java/dataSource/DatabaseOperation.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Amazon/src/main/java/dropdownmenu/FetchDropDown.java" beforeDir="false" afterPath="$PROJECT_DIR$/Amazon/src/main/java/dropdownmenu/FetchDropDown.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Amazon/src/main/java/loginPage/LoginPageNew.java" beforeDir="false" afterPath="$PROJECT_DIR$/Amazon/src/main/java/loginPage/LoginPageNew.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Amazon/src/main/java/searchFeather/SearchFeature.java" beforeDir="false" afterPath="$PROJECT_DIR$/Amazon/src/main/java/searchFeather/SearchFeature.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Amazon/src/main/java/searchPages/SearchPage.java" beforeDir="false" afterPath="$PROJECT_DIR$/Amazon/src/main/java/searchPages/SearchPage.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Amazon/src/main/java/searchPages/TagNamePage.java" beforeDir="false" afterPath="$PROJECT_DIR$/Amazon/src/main/java/searchPages/TagNamePage.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Amazon/src/test/java/dropDownMenu/TestDropDown.java" beforeDir="false" afterPath="$PROJECT_DIR$/Amazon/src/test/java/dropDownMenu/TestDropDown.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Amazon/src/test/java/homePageTest/HomePageTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/Amazon/src/test/java/homePageTest/HomePageTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Amazon/src/test/java/homePageTest/TestHomePage.java" beforeDir="false" afterPath="$PROJECT_DIR$/Amazon/src/test/java/homePageTest/TestHomePage.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Amazon/src/test/java/loginPageTest/LoginPageTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/Amazon/src/test/java/loginPageTest/LoginPageTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Amazon/src/test/java/loginPageTest/LoginPageTest1.java" beforeDir="false" afterPath="$PROJECT_DIR$/Amazon/src/test/java/loginPageTest/LoginPageTest1.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Amazon/src/test/java/loginPageTest/VerifyValidLogin.java" beforeDir="false" afterPath="$PROJECT_DIR$/Amazon/src/test/java/loginPageTest/VerifyValidLogin.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Amazon/src/test/java/menuPage/MenuPageTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/Amazon/src/test/java/menuPage/MenuPageTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Amazon/src/test/java/randomTests/RandomTests.java" beforeDir="false" afterPath="$PROJECT_DIR$/Amazon/src/test/java/randomTests/RandomTests.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Amazon/src/test/java/searchTest/TagNamePageTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/Amazon/src/test/java/searchTest/TagNamePageTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Amazon/src/test/java/searchTest/TestSearch.java" beforeDir="false" afterPath="$PROJECT_DIR$/Amazon/src/test/java/searchTest/TestSearch.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Amazon/src/test/java/signinpagetest/SignInTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/Amazon/src/test/java/signinpagetest/SignInTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Cigna/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Cigna/pom.xml" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
@@ -42,42 +27,6 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Amazon/src/test/java/homePageTest/HomePageTest.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="195">
-              <caret line="15" selection-start-line="15" selection-end-line="15" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Amazon/src/test/java/homePageTest/TestHomePage.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="240">
-              <caret line="21" selection-start-line="21" selection-end-line="21" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Amazon/src/test/java/loginPageTest/LoginPageTest.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="225">
-              <caret line="17" column="5" lean-forward="true" selection-start-line="17" selection-start-column="5" selection-end-line="17" selection-end-column="5" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Amazon/src/test/java/loginPageTest/LoginPageTest1.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="255">
-              <caret line="20" lean-forward="true" selection-start-line="20" selection-end-line="20" />
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Amazon/src/test/java/loginPageTest/VerifyValidLogin.java">
           <provider selected="true" editor-type-id="text-editor">
@@ -126,11 +75,47 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Amazon/src/test/java/signinpagetest/SignInTest.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="285">
               <caret line="23" selection-start-line="23" selection-end-line="23" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/.gitignore">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="105">
+              <caret line="7" column="5" selection-start-line="7" selection-start-column="5" selection-end-line="7" selection-end-column="5" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/Amazon/pom.xml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="266">
+              <caret line="31" column="28" lean-forward="true" selection-start-line="31" selection-start-column="28" selection-end-line="31" selection-end-column="28" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/pom.xml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="346">
+              <caret line="78" selection-start-line="78" selection-end-line="86" selection-end-column="28" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Cigna/pom.xml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="282">
+              <caret line="48" selection-start-line="48" selection-start-column="4" selection-end-line="51" selection-end-column="25" />
             </state>
           </provider>
         </entry>
@@ -143,7 +128,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/Generic/src/main/java/base/Base.java" />
         <option value="$PROJECT_DIR$/Cnn/src/test/java/CnnHome.java" />
         <option value="$PROJECT_DIR$/Cnn/src/main/java/news/Pages.java" />
         <option value="$PROJECT_DIR$/Cnn/src/main/java/news/CnnBase.java" />
@@ -167,8 +151,6 @@
         <option value="$PROJECT_DIR$/Facebook/src/main/java/dataReader/ReadExcel.java" />
         <option value="$PROJECT_DIR$/Generic/src/main/java/base/CommonAPI.java" />
         <option value="$PROJECT_DIR$/pom.xml" />
-        <option value="$PROJECT_DIR$/Amazon/pom.xml" />
-        <option value="$PROJECT_DIR$/Cigna/pom.xml" />
         <option value="$PROJECT_DIR$/Facebook/pom.xml" />
         <option value="$PROJECT_DIR$/Generic/pom.xml" />
         <option value="$PROJECT_DIR$/Cigna/src/main/java/googleSheetPage/GoogleSheets.java" />
@@ -194,6 +176,9 @@
         <option value="$PROJECT_DIR$/Amazon/src/test/java/searchTest/TagNamePageTest.java" />
         <option value="$PROJECT_DIR$/Amazon/src/test/java/searchTest/TestSearch.java" />
         <option value="$PROJECT_DIR$/Amazon/src/test/java/signinpagetest/SignInTest.java" />
+        <option value="$PROJECT_DIR$/.gitignore" />
+        <option value="$PROJECT_DIR$/Cigna/pom.xml" />
+        <option value="$PROJECT_DIR$/Amazon/pom.xml" />
       </list>
     </option>
   </component>
@@ -390,6 +375,11 @@
             <path>
               <item name="BootCampLab2019" type="b2602c69:ProjectViewProjectNode" />
               <item name="BootCampLab2019" type="462c0819:PsiDirectoryNode" />
+              <item name="Cigna" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="BootCampLab2019" type="b2602c69:ProjectViewProjectNode" />
+              <item name="BootCampLab2019" type="462c0819:PsiDirectoryNode" />
               <item name="Facebook" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
@@ -491,6 +481,7 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1280" height="800" extended-state="0" />
+    <editor active="true" />
     <layout>
       <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.28109854" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
@@ -507,7 +498,7 @@
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
-      <window_info active="true" anchor="bottom" id="Terminal" order="7" visible="true" weight="0.26164383" />
+      <window_info active="true" anchor="bottom" id="Terminal" order="7" visible="true" weight="0.45342466" />
       <window_info anchor="bottom" id="Event Log" order="8" side_tool="true" />
       <window_info anchor="bottom" id="Version Control" order="9" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
@@ -521,13 +512,6 @@
     </layout>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/Facebook/src/main/java/basepage/ProfilePage.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="30">
-          <caret line="2" column="14" selection-start-line="2" selection-start-column="14" selection-end-line="2" selection-end-column="14" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/Facebook/src/test/java/pageobjecttest/ProfilePageTest.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="30">
@@ -691,20 +675,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Amazon/pom.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="409">
-          <caret line="32" column="21" selection-start-line="32" selection-start-column="21" selection-end-line="32" selection-end-column="21" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Cigna/pom.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="521">
-          <caret line="35" column="21" selection-start-line="35" selection-start-column="21" selection-end-line="35" selection-end-column="21" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/Cnn/pom.xml">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="-251" />
@@ -738,13 +708,6 @@
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/pom.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="387">
-          <caret line="89" column="12" selection-start-line="89" selection-start-column="12" selection-end-line="89" selection-end-column="12" />
         </state>
       </provider>
     </entry>
@@ -904,14 +867,14 @@
     <entry file="file://$PROJECT_DIR$/Amazon/src/test/java/loginPageTest/LoginPageTest.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="225">
-          <caret line="17" column="5" lean-forward="true" selection-start-line="17" selection-start-column="5" selection-end-line="17" selection-end-column="5" />
+          <caret line="17" column="5" selection-start-line="17" selection-start-column="5" selection-end-line="17" selection-end-column="5" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/Amazon/src/test/java/loginPageTest/LoginPageTest1.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="255">
-          <caret line="20" lean-forward="true" selection-start-line="20" selection-end-line="20" />
+          <caret line="20" selection-start-line="20" selection-end-line="20" />
         </state>
       </provider>
     </entry>
@@ -957,6 +920,34 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="285">
           <caret line="23" selection-start-line="23" selection-end-line="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.gitignore">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="105">
+          <caret line="7" column="5" selection-start-line="7" selection-start-column="5" selection-end-line="7" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Cigna/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="282">
+          <caret line="48" selection-start-line="48" selection-start-column="4" selection-end-line="51" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="346">
+          <caret line="78" selection-start-line="78" selection-end-line="86" selection-end-column="28" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Amazon/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="266">
+          <caret line="31" column="28" lean-forward="true" selection-start-line="31" selection-start-column="28" selection-end-line="31" selection-end-column="28" />
         </state>
       </provider>
     </entry>
