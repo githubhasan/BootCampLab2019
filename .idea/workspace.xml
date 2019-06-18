@@ -2,47 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="17b826c5-faf3-4f4c-ae2c-3ed1ca6ab494" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/Cigna/.credentials/sheets-googleapis/StoredCredential" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Cigna/client_secret.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Cigna/data/SearchIteams.xlsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Cigna/data/features.xlsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Cigna/debug.log" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Cigna/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Cigna/src/main/java/googleSheetPage/GoogleSheets.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Cigna/src/main/java/keyword/Features.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Cigna/src/main/java/page_objects/LoginPage.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Cigna/src/main/java/page_objects/PersonalPage.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Cigna/src/main/java/search/IteamsToBeSearched.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Cigna/src/main/java/search/SearchClass.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Cigna/src/main/resources/CignaTestRunner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Cigna/src/test/java/features/TestFeatures.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Cigna/src/test/java/testCases/TestLoginPage.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Cigna/src/test/java/testCases/TestPersonalPage.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Facebook/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Facebook/report-config.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Facebook/src/main/java/basepage/LoginPage.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Facebook/src/main/java/basepage/SearchFriend.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Facebook/src/main/java/basepage/Signup.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Facebook/src/main/java/config/config.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Facebook/src/main/java/dataReader/ExcelDataReader.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Facebook/src/main/java/dataReader/ReadExcel.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Facebook/src/main/java/dataReader/XlsxData.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Facebook/src/main/java/googlesheet/GoogleSheetSignin.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Facebook/src/main/java/testData/FBtestData.xlsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Facebook/src/main/java/utility/FbUtility.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Facebook/src/main/resources/Facebookrunner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Facebook/src/main/resources/secret.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Facebook/src/test/java/googlesheettestPack/GoogleSheetTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Facebook/src/test/java/pageobjecttest/LoginPageTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Facebook/src/test/java/pageobjecttest/SearchTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Facebook/src/test/java/pageobjecttest/XlsxDataTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Generic/src/main/java/googleAPIs/GoogleSheetReader.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Generic/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Generic/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Generic/src/main/java/base/CommonAPI.java" beforeDir="false" afterPath="$PROJECT_DIR$/Generic/src/main/java/base/CommonAPI.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Generic/src/main/java/utility/DataReader.java" beforeDir="false" afterPath="$PROJECT_DIR$/Generic/src/main/java/utility/DataReader.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Cigna/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Cigna/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Cigna/src/main/java/googleSheetPage/GoogleSheets.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Generic/src/main/java/googleAPIs/GoogleSheetReader.java" beforeDir="false" afterPath="$PROJECT_DIR$/Generic/src/main/java/googleAPIs/GoogleSheetReader.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
@@ -66,18 +29,6 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Facebook/src/main/java/dataReader/ReadExcel.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="279">
-              <caret line="19" selection-start-line="19" selection-end-line="19" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Generic/src/main/java/base/CommonAPI.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="203">
@@ -92,44 +43,63 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Generic/pom.xml">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="190">
-              <caret line="90" column="52" selection-start-line="90" selection-start-column="52" selection-end-line="90" selection-end-column="52" />
+            <state relative-caret-position="1305">
+              <caret line="87" column="21" selection-start-line="87" selection-start-column="21" selection-end-line="87" selection-end-column="21" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/pom.xml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="387">
+              <caret line="89" column="12" selection-start-line="89" selection-start-column="12" selection-end-line="89" selection-end-column="12" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/pom.xml">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="225">
-              <caret line="15" column="19" lean-forward="true" selection-start-line="15" selection-start-column="19" selection-end-line="15" selection-end-column="19" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Facebook/src/test/java/googlesheettestPack/GoogleSheetTest.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="234">
-              <caret line="18" column="65" selection-end-line="41" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Facebook/report-config.xml">
+        <entry file="file://$PROJECT_DIR$/Cigna/src/main/java/keyword/Features.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="195">
-              <caret line="13" column="34" selection-start-line="13" selection-start-column="34" selection-end-line="13" selection-end-column="34" />
+              <caret line="13" column="79" selection-start-line="13" selection-start-column="79" selection-end-line="13" selection-end-column="79" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Facebook/src/main/resources/Facebookrunner.xml">
+        <entry file="file://$PROJECT_DIR$/Amazon/pom.xml">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="240">
-              <caret line="16" column="28" selection-start-line="16" selection-start-column="28" selection-end-line="16" selection-end-column="28" />
+            <state relative-caret-position="409">
+              <caret line="32" column="21" selection-start-line="32" selection-start-column="21" selection-end-line="32" selection-end-column="21" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Cigna/pom.xml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="521">
+              <caret line="35" column="21" selection-start-line="35" selection-start-column="21" selection-end-line="35" selection-end-column="21" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Cnn/pom.xml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-251" />
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Facebook/pom.xml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="409">
+              <caret line="46" column="21" selection-start-line="46" selection-start-column="21" selection-end-line="46" selection-end-column="21" />
             </state>
           </provider>
         </entry>
@@ -152,18 +122,6 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Facebook/src/main/java/dataReader/ExcelDataReader.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-1073">
-              <caret line="11" column="26" selection-start-line="11" selection-start-column="26" selection-end-line="11" selection-end-column="26" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
     </leaf>
   </component>
   <component name="Git.Settings">
@@ -173,8 +131,6 @@
     <option name="CHANGED_PATHS">
       <list>
         <option value="$PROJECT_DIR$/Generic/src/main/java/utility/BrowserFactory.java" />
-        <option value="$PROJECT_DIR$/Amazon/pom.xml" />
-        <option value="$PROJECT_DIR$/pom.xml" />
         <option value="$PROJECT_DIR$/Amazon/src/main/java/searchPages/TagNamePage.java" />
         <option value="$PROJECT_DIR$/Amazon/src/test/java/randomTests/RandomTests.java" />
         <option value="$PROJECT_DIR$/Cnn/pom.xml" />
@@ -201,7 +157,12 @@
         <option value="$PROJECT_DIR$/Facebook/src/main/java/dataReader/ExcelDataReader.java" />
         <option value="$PROJECT_DIR$/Facebook/src/main/java/dataReader/ReadExcel.java" />
         <option value="$PROJECT_DIR$/Generic/src/main/java/base/CommonAPI.java" />
+        <option value="$PROJECT_DIR$/pom.xml" />
+        <option value="$PROJECT_DIR$/Amazon/pom.xml" />
+        <option value="$PROJECT_DIR$/Cigna/pom.xml" />
+        <option value="$PROJECT_DIR$/Facebook/pom.xml" />
         <option value="$PROJECT_DIR$/Generic/pom.xml" />
+        <option value="$PROJECT_DIR$/Cigna/src/main/java/googleSheetPage/GoogleSheets.java" />
       </list>
     </option>
   </component>
@@ -230,6 +191,64 @@
             <path>
               <item name="BootCampLab2019" type="b2602c69:ProjectViewProjectNode" />
               <item name="BootCampLab2019" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="BootCampLab2019" type="b2602c69:ProjectViewProjectNode" />
+              <item name="BootCampLab2019" type="462c0819:PsiDirectoryNode" />
+              <item name="Cigna" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="BootCampLab2019" type="b2602c69:ProjectViewProjectNode" />
+              <item name="BootCampLab2019" type="462c0819:PsiDirectoryNode" />
+              <item name="Cigna" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="BootCampLab2019" type="b2602c69:ProjectViewProjectNode" />
+              <item name="BootCampLab2019" type="462c0819:PsiDirectoryNode" />
+              <item name="Cigna" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="BootCampLab2019" type="b2602c69:ProjectViewProjectNode" />
+              <item name="BootCampLab2019" type="462c0819:PsiDirectoryNode" />
+              <item name="Cigna" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="BootCampLab2019" type="b2602c69:ProjectViewProjectNode" />
+              <item name="BootCampLab2019" type="462c0819:PsiDirectoryNode" />
+              <item name="Cigna" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="keyword" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="BootCampLab2019" type="b2602c69:ProjectViewProjectNode" />
+              <item name="BootCampLab2019" type="462c0819:PsiDirectoryNode" />
+              <item name="Cigna" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="page_objects" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="BootCampLab2019" type="b2602c69:ProjectViewProjectNode" />
+              <item name="BootCampLab2019" type="462c0819:PsiDirectoryNode" />
+              <item name="Cigna" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="search" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="BootCampLab2019" type="b2602c69:ProjectViewProjectNode" />
+              <item name="BootCampLab2019" type="462c0819:PsiDirectoryNode" />
+              <item name="Facebook" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="BootCampLab2019" type="b2602c69:ProjectViewProjectNode" />
@@ -330,6 +349,7 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1280" height="800" extended-state="0" />
+    <editor active="true" />
     <layout>
       <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.28109854" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
@@ -346,7 +366,7 @@
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
-      <window_info anchor="bottom" id="Terminal" order="7" visible="true" weight="0.53561646" />
+      <window_info anchor="bottom" id="Terminal" order="7" visible="true" weight="0.26164383" />
       <window_info anchor="bottom" id="Event Log" order="8" side_tool="true" />
       <window_info anchor="bottom" id="Version Control" order="9" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
@@ -360,23 +380,6 @@
     </layout>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/Cnn/pom.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="255">
-          <caret line="17" column="44" selection-start-line="17" selection-start-column="44" selection-end-line="17" selection-end-column="44" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Cnn/src/main/java/news/Pages.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="135">
-          <caret line="9" column="3" selection-start-line="9" selection-start-column="3" selection-end-line="9" selection-end-column="3" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/Cnn/src/test/java/Search.java">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
@@ -416,13 +419,7 @@
     <entry file="file://$PROJECT_DIR$/Cnn/src/main/resources/CnnHome.xml">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/Facebook/pom.xml">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
     <entry file="file://$PROJECT_DIR$/Facebook/src/main/resources/Facebook1TestRunner.xml">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Cigna/pom.xml">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
     <entry file="file://$PROJECT_DIR$/Cigna/client_secret.json">
@@ -438,12 +435,6 @@
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
     <entry file="file://$PROJECT_DIR$/Cigna/src/main/java/search/IteamsToBeSearched.java">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Cigna/src/main/java/googleSheetPage/GoogleSheets.java">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Cigna/src/main/java/keyword/Features.java">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
     <entry file="file://$PROJECT_DIR$/Cigna/src/main/resources/CignaTestRunner.xml">
@@ -703,17 +694,60 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/Amazon/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="409">
+          <caret line="32" column="21" selection-start-line="32" selection-start-column="21" selection-end-line="32" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Cigna/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="521">
+          <caret line="35" column="21" selection-start-line="35" selection-start-column="21" selection-end-line="35" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Cnn/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-251" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Facebook/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="409">
+          <caret line="46" column="21" selection-start-line="46" selection-start-column="21" selection-end-line="46" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/Generic/pom.xml">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="190">
-          <caret line="90" column="52" selection-start-line="90" selection-start-column="52" selection-end-line="90" selection-end-column="52" />
+        <state relative-caret-position="1305">
+          <caret line="87" column="21" selection-start-line="87" selection-start-column="21" selection-end-line="87" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Cigna/src/main/java/googleSheetPage/GoogleSheets.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="150">
+          <caret line="10" column="8" selection-start-line="10" selection-start-column="8" selection-end-line="10" selection-end-column="8" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/pom.xml">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="225">
-          <caret line="15" column="19" lean-forward="true" selection-start-line="15" selection-start-column="19" selection-end-line="15" selection-end-column="19" />
+        <state relative-caret-position="387">
+          <caret line="89" column="12" selection-start-line="89" selection-start-column="12" selection-end-line="89" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Cigna/src/main/java/keyword/Features.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="195">
+          <caret line="13" column="79" selection-start-line="13" selection-start-column="79" selection-end-line="13" selection-end-column="79" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>

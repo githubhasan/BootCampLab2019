@@ -8,6 +8,7 @@ import org.testng.annotations.Test;
 import page_objects.LoginPage;
 import page_objects.PersonalPage;
 
+
 public class TestLoginPage extends CommonAPI{
     PersonalPage objOfPersonalPage;
     LoginPage objOfLoginPage;
