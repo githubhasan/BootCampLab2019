@@ -8,9 +8,9 @@
         <outputRelativeToContentRoot value="true" />
         <module name="Generic" />
         <module name="Facebook" />
-        <module name="Cnn" />
-        <module name="Cigna" />
         <module name="Amazon" />
+        <module name="Cigna" />
+        <module name="Cnn" />
       </profile>
     </annotationProcessing>
   </component>

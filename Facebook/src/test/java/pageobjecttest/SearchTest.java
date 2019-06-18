@@ -10,7 +10,7 @@ public class SearchTest extends CommonAPI {
     SearchFriend SF;
     @BeforeMethod
     public void initElements() {
-        SF = PageFactory.initElements(driver, basepage.SearchFriend.class);
+        SF = PageFactory.initElements(driver, SearchFriend.class);
     }
         @Test
         public void test(){

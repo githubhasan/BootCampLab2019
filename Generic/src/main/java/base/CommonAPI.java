@@ -3,6 +3,8 @@ package base;
 
 import com.relevantcodes.extentreports.ExtentReports;
 import com.relevantcodes.extentreports.LogStatus;
+import org.apache.commons.io.FileUtils;
+import org.apache.commons.lang3.StringUtils;
 import org.openqa.selenium.*;
 import org.openqa.selenium.chrome.ChromeDriver;
 import org.openqa.selenium.chrome.ChromeOptions;
@@ -17,10 +19,8 @@ import org.openqa.selenium.support.ui.WebDriverWait;
 import org.testng.ITestContext;
 import org.testng.ITestResult;
 import org.testng.annotations.*;
-import org.apache.commons.lang3.StringUtils;
 import reporting.ExtentManager;
 import reporting.ExtentTestManager;
-import org.apache.commons.io.FileUtils;
 import reporting.TestLogger;
 
 import java.io.File;
@@ -141,7 +141,7 @@ public class CommonAPI {
             } else if (OS.equalsIgnoreCase("Windows")) {
                 System.setProperty("webdriver.chrome.driver", "/Users/mdhasan/Documents/GitHub/BootCampLab2019/Generic/src/resources/drivers/chromedriver.exe");
             }
-            driver = new ChromeDriver(options);
+            driver = new ChromeDriver();
         } else if (browserName.equalsIgnoreCase("firefox")) {
             if (OS.equalsIgnoreCase("OS X")) {
                 System.setProperty("webdriver.gecko.driver", "/Users/mdhasan/Documents/GitHub/BootCampLab2019/Generic/src/resources/drivers/geckodriver");
