@@ -37,7 +37,7 @@ public class DatabaseOperation {
     }
 
     public List <String> getItemsListFromDB() throws Exception, IOException, SQLException, ClassNotFoundException {
-        List <String> list = new ArrayList <>();
+        List <String> list = new ArrayList <String>();
         list = connectToSqlDB.readDataBase("ItemList", "items");
         return list;
     }
