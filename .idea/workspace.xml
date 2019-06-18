@@ -2,9 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="17b826c5-faf3-4f4c-ae2c-3ed1ca6ab494" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Amazon/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Amazon/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Cigna/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Cigna/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Amazon/src/main/java/dataSource/DatabaseOperation.java" beforeDir="false" afterPath="$PROJECT_DIR$/Amazon/src/main/java/dataSource/DatabaseOperation.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
@@ -27,45 +25,6 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Amazon/src/test/java/loginPageTest/VerifyValidLogin.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="135">
-              <caret line="9" column="13" selection-start-line="9" selection-start-column="13" selection-end-line="9" selection-end-column="13" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Amazon/src/test/java/menuPage/MenuPageTest.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="255">
-              <caret line="23" selection-start-line="23" selection-end-line="23" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Amazon/src/test/java/randomTests/RandomTests.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="315">
-              <caret line="31" selection-start-line="31" selection-end-line="31" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Amazon/src/test/java/searchTest/TagNamePageTest.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="285">
-              <caret line="27" selection-start-line="27" selection-end-line="27" />
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Amazon/src/test/java/searchTest/TestSearch.java">
           <provider selected="true" editor-type-id="text-editor">
@@ -93,11 +52,57 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Amazon/pom.xml">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="266">
-              <caret line="31" column="28" lean-forward="true" selection-start-line="31" selection-start-column="28" selection-end-line="31" selection-end-column="28" />
+            <state relative-caret-position="296">
+              <caret line="33" column="19" selection-start-line="33" selection-start-column="19" selection-end-line="33" selection-end-column="19" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Cigna/src/main/java/search/IteamsToBeSearched.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="225">
+              <caret line="15" column="6" selection-start-line="15" selection-start-column="6" selection-end-line="15" selection-end-column="6" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Cigna/src/main/java/page_objects/LoginPage.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="30">
+              <caret line="6" column="38" selection-start-line="6" selection-start-column="38" selection-end-line="6" selection-end-column="38" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Amazon/src/main/java/dataSource/DatabaseOperation.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="149">
+              <caret line="42" column="5" lean-forward="true" selection-start-line="42" selection-start-column="5" selection-end-line="42" selection-end-column="5" />
+              <folding>
+                <element signature="imports" expanded="true" />
+                <element signature="e#1284#1292#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/Amazon/src/main/java/dropdownmenu/FetchDropDown.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="135">
+              <caret line="9" lean-forward="true" selection-start-line="9" selection-end-line="9" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -115,7 +120,7 @@
         <entry file="file://$PROJECT_DIR$/Cigna/pom.xml">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="282">
-              <caret line="48" selection-start-line="48" selection-start-column="4" selection-end-line="51" selection-end-column="25" />
+              <caret line="58" selection-start-line="58" selection-start-column="4" selection-end-line="61" selection-end-column="25" />
             </state>
           </provider>
         </entry>
@@ -155,11 +160,9 @@
         <option value="$PROJECT_DIR$/Generic/pom.xml" />
         <option value="$PROJECT_DIR$/Cigna/src/main/java/googleSheetPage/GoogleSheets.java" />
         <option value="$PROJECT_DIR$/Cigna/src/main/java/keyword/Features.java" />
-        <option value="$PROJECT_DIR$/Cigna/src/main/java/search/IteamsToBeSearched.java" />
         <option value="$PROJECT_DIR$/Cigna/src/main/java/search/SearchClass.java" />
         <option value="$PROJECT_DIR$/Cigna/src/test/java/testCases/TestPersonalPage.java" />
         <option value="$PROJECT_DIR$/Cigna/src/test/java/testCases/TestLoginPage.java" />
-        <option value="$PROJECT_DIR$/Amazon/src/main/java/dataSource/DatabaseOperation.java" />
         <option value="$PROJECT_DIR$/Amazon/src/main/java/dropdownmenu/FetchDropDown.java" />
         <option value="$PROJECT_DIR$/Amazon/src/main/java/loginPage/LoginPageNew.java" />
         <option value="$PROJECT_DIR$/Amazon/src/main/java/searchFeather/SearchFeature.java" />
@@ -179,6 +182,8 @@
         <option value="$PROJECT_DIR$/.gitignore" />
         <option value="$PROJECT_DIR$/Cigna/pom.xml" />
         <option value="$PROJECT_DIR$/Amazon/pom.xml" />
+        <option value="$PROJECT_DIR$/Cigna/src/main/java/search/IteamsToBeSearched.java" />
+        <option value="$PROJECT_DIR$/Amazon/src/main/java/dataSource/DatabaseOperation.java" />
       </list>
     </option>
   </component>
@@ -222,160 +227,54 @@
             <path>
               <item name="BootCampLab2019" type="b2602c69:ProjectViewProjectNode" />
               <item name="BootCampLab2019" type="462c0819:PsiDirectoryNode" />
-              <item name="Amazon" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="BootCampLab2019" type="b2602c69:ProjectViewProjectNode" />
-              <item name="BootCampLab2019" type="462c0819:PsiDirectoryNode" />
-              <item name="Amazon" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="BootCampLab2019" type="b2602c69:ProjectViewProjectNode" />
-              <item name="BootCampLab2019" type="462c0819:PsiDirectoryNode" />
-              <item name="Amazon" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="BootCampLab2019" type="b2602c69:ProjectViewProjectNode" />
-              <item name="BootCampLab2019" type="462c0819:PsiDirectoryNode" />
-              <item name="Amazon" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="dataSource" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="BootCampLab2019" type="b2602c69:ProjectViewProjectNode" />
-              <item name="BootCampLab2019" type="462c0819:PsiDirectoryNode" />
-              <item name="Amazon" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="dropdownmenu" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="BootCampLab2019" type="b2602c69:ProjectViewProjectNode" />
-              <item name="BootCampLab2019" type="462c0819:PsiDirectoryNode" />
-              <item name="Amazon" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="homePage" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="BootCampLab2019" type="b2602c69:ProjectViewProjectNode" />
-              <item name="BootCampLab2019" type="462c0819:PsiDirectoryNode" />
-              <item name="Amazon" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="loginPage" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="BootCampLab2019" type="b2602c69:ProjectViewProjectNode" />
-              <item name="BootCampLab2019" type="462c0819:PsiDirectoryNode" />
-              <item name="Amazon" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="searchFeather" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="BootCampLab2019" type="b2602c69:ProjectViewProjectNode" />
-              <item name="BootCampLab2019" type="462c0819:PsiDirectoryNode" />
-              <item name="Amazon" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="searchPages" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="BootCampLab2019" type="b2602c69:ProjectViewProjectNode" />
-              <item name="BootCampLab2019" type="462c0819:PsiDirectoryNode" />
-              <item name="Amazon" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="test" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="BootCampLab2019" type="b2602c69:ProjectViewProjectNode" />
-              <item name="BootCampLab2019" type="462c0819:PsiDirectoryNode" />
-              <item name="Amazon" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="test" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="BootCampLab2019" type="b2602c69:ProjectViewProjectNode" />
-              <item name="BootCampLab2019" type="462c0819:PsiDirectoryNode" />
-              <item name="Amazon" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="test" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="dropDownMenu" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="BootCampLab2019" type="b2602c69:ProjectViewProjectNode" />
-              <item name="BootCampLab2019" type="462c0819:PsiDirectoryNode" />
-              <item name="Amazon" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="test" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="homePageTest" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="BootCampLab2019" type="b2602c69:ProjectViewProjectNode" />
-              <item name="BootCampLab2019" type="462c0819:PsiDirectoryNode" />
-              <item name="Amazon" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="test" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="loginPageTest" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="BootCampLab2019" type="b2602c69:ProjectViewProjectNode" />
-              <item name="BootCampLab2019" type="462c0819:PsiDirectoryNode" />
-              <item name="Amazon" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="test" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="menuPage" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="BootCampLab2019" type="b2602c69:ProjectViewProjectNode" />
-              <item name="BootCampLab2019" type="462c0819:PsiDirectoryNode" />
-              <item name="Amazon" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="test" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="randomTests" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="BootCampLab2019" type="b2602c69:ProjectViewProjectNode" />
-              <item name="BootCampLab2019" type="462c0819:PsiDirectoryNode" />
-              <item name="Amazon" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="test" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="searchTest" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="BootCampLab2019" type="b2602c69:ProjectViewProjectNode" />
-              <item name="BootCampLab2019" type="462c0819:PsiDirectoryNode" />
-              <item name="Amazon" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="test" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="signinpagetest" type="462c0819:PsiDirectoryNode" />
+              <item name="Cigna" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="BootCampLab2019" type="b2602c69:ProjectViewProjectNode" />
               <item name="BootCampLab2019" type="462c0819:PsiDirectoryNode" />
               <item name="Cigna" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="BootCampLab2019" type="b2602c69:ProjectViewProjectNode" />
+              <item name="BootCampLab2019" type="462c0819:PsiDirectoryNode" />
+              <item name="Cigna" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="BootCampLab2019" type="b2602c69:ProjectViewProjectNode" />
+              <item name="BootCampLab2019" type="462c0819:PsiDirectoryNode" />
+              <item name="Cigna" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="BootCampLab2019" type="b2602c69:ProjectViewProjectNode" />
+              <item name="BootCampLab2019" type="462c0819:PsiDirectoryNode" />
+              <item name="Cigna" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="page_objects" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="BootCampLab2019" type="b2602c69:ProjectViewProjectNode" />
+              <item name="BootCampLab2019" type="462c0819:PsiDirectoryNode" />
+              <item name="Cigna" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="search" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="BootCampLab2019" type="b2602c69:ProjectViewProjectNode" />
+              <item name="BootCampLab2019" type="462c0819:PsiDirectoryNode" />
+              <item name="Cigna" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="resources" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="BootCampLab2019" type="b2602c69:ProjectViewProjectNode" />
@@ -481,7 +380,6 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1280" height="800" extended-state="0" />
-    <editor active="true" />
     <layout>
       <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.28109854" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
@@ -711,13 +609,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Cigna/src/main/java/page_objects/LoginPage.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="115">
-          <caret line="8" column="23" selection-start-line="8" selection-start-column="23" selection-end-line="8" selection-end-column="23" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/Cigna/src/main/java/page_objects/PersonalPage.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="30">
@@ -748,16 +639,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Cigna/src/main/java/search/IteamsToBeSearched.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="330">
-          <caret line="22" column="8" selection-start-line="22" selection-start-column="8" selection-end-line="22" selection-end-column="8" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/Cigna/src/test/java/testCases/TestPersonalPage.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="90">
@@ -769,16 +650,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="135">
           <caret line="9" selection-start-line="9" selection-end-line="9" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Amazon/src/main/java/dropdownmenu/FetchDropDown.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="135">
-          <caret line="9" column="4" selection-start-line="9" selection-start-column="4" selection-end-line="9" selection-end-column="4" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
@@ -827,16 +698,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="30">
           <caret line="2" column="7" selection-start-line="2" selection-start-column="7" selection-end-line="2" selection-end-column="7" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Amazon/src/main/java/dataSource/DatabaseOperation.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="297">
-          <caret line="47" column="52" selection-start-line="47" selection-start-column="52" selection-end-line="47" selection-end-column="52" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
@@ -933,7 +794,7 @@
     <entry file="file://$PROJECT_DIR$/Cigna/pom.xml">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="282">
-          <caret line="48" selection-start-line="48" selection-start-column="4" selection-end-line="51" selection-end-column="25" />
+          <caret line="58" selection-start-line="58" selection-start-column="4" selection-end-line="61" selection-end-column="25" />
         </state>
       </provider>
     </entry>
@@ -946,8 +807,46 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/Amazon/pom.xml">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="266">
-          <caret line="31" column="28" lean-forward="true" selection-start-line="31" selection-start-column="28" selection-end-line="31" selection-end-column="28" />
+        <state relative-caret-position="296">
+          <caret line="33" column="19" selection-start-line="33" selection-start-column="19" selection-end-line="33" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Cigna/src/main/java/search/IteamsToBeSearched.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="225">
+          <caret line="15" column="6" selection-start-line="15" selection-start-column="6" selection-end-line="15" selection-end-column="6" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Cigna/src/main/java/page_objects/LoginPage.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="30">
+          <caret line="6" column="38" selection-start-line="6" selection-start-column="38" selection-end-line="6" selection-end-column="38" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Amazon/src/main/java/dataSource/DatabaseOperation.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="149">
+          <caret line="42" column="5" lean-forward="true" selection-start-line="42" selection-start-column="5" selection-end-line="42" selection-end-column="5" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#1284#1292#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Amazon/src/main/java/dropdownmenu/FetchDropDown.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="135">
+          <caret line="9" lean-forward="true" selection-start-line="9" selection-end-line="9" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
