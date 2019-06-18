@@ -29,6 +29,7 @@ public class RandomTests extends CommonAPI {
         driver.navigate().back();
     }
 
+
     @Test
     public void search5() {
         driver.findElement(By.cssSelector("#nav-xshop > a:nth-child(4)")).click();

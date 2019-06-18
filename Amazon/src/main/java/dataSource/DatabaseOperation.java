@@ -11,6 +11,7 @@ import java.util.List;
 
 public class DatabaseOperation {
 
+
     static ConnectToSqlDB connectToSqlDB = new ConnectToSqlDB();
 
     public static void insertDataIntoDB() {

@@ -15,5 +15,6 @@ public class SearchFeature extends CommonAPI {
         navigateBack();
         typeOnElementNEnter("#twotabsearchtextbox", "iPhone");
 
+
     }
 }

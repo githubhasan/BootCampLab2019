@@ -21,3 +21,4 @@ public class TagNamePage extends CommonAPI {
 
     }
 }
+

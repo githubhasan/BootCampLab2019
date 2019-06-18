@@ -35,5 +35,6 @@ public class LoginPageNew {
         username.sendKeys(uid);
         password.sendKeys(pass);
         loginButton.click();
+
     }
 }

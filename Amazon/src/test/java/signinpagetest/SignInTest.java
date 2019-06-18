@@ -21,6 +21,7 @@ public class SignInTest extends CommonAPI {
             clickByXpath("#ap_email");
             clickByXpath(".#ap_password");
 
+
             sleepFor(2);
             String emailLocator = value[1][0];
             String email = value[1][1];

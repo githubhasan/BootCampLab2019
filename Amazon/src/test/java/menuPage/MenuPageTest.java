@@ -21,4 +21,5 @@ public class MenuPageTest extends CommonAPI {
         List <String> menuData = new ArrayList <>();
         Assert.assertEquals(menuData, actualData);
     }
+
 }

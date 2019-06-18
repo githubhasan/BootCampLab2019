@@ -21,6 +21,7 @@ public class SearchPage {
     @FindBy(how = How.CSS, using = ".nav-input")
     public static WebElement submitButtonWebElement;
 
+
     public WebElement getSearchInputWebElement() {
         TestLogger.log(getClass().getSimpleName() + ": " + CommonAPI.convertToString(new Object() {
         }.getClass().getEnclosingMethod().getName()));

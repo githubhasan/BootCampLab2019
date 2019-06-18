@@ -19,6 +19,7 @@ public class TestHomePage extends CommonAPI {
     }
 
 
+
     @Test
     public void clickOnAmazonDrive() {
         homePage.setAmazonDrive();

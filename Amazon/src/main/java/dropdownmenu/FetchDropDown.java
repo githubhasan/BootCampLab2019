@@ -8,6 +8,7 @@ import java.util.List;
 
 public class FetchDropDown extends CommonAPI {
 
+
     public void dropDown() {
         List <WebElement> element = getListOfWebElementsByCss(".nav-search-dropdown.searchSelect option");
         List <String> listOfText = getListOfString(element);

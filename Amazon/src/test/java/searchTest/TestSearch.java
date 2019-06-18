@@ -25,3 +25,4 @@ public class TestSearch extends CommonAPI {
         searchPage.searchItemsFromArrayListAndSubmitButton();
     }
 }
+
