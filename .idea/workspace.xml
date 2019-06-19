@@ -2,12 +2,52 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="17b826c5-faf3-4f4c-ae2c-3ed1ca6ab494" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/Generic/src/main/java/common/CommonAPI_mobile.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Generic/src/main/java/excelFileReader/ExcelFileReader.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MobileAutomationNYP/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MobileAutomationNYP/src/app/nyp.apk" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MobileAutomationNYP/src/main/java/businesspage/BusinessPage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MobileAutomationNYP/src/main/java/entertainmentpage/EntertainmentPage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MobileAutomationNYP/src/main/java/excelData/SearchForData.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MobileAutomationNYP/src/main/java/fashionpage/FashionPage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MobileAutomationNYP/src/main/java/homepage/HomePage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MobileAutomationNYP/src/main/java/lateststories/LatestStories.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MobileAutomationNYP/src/main/java/livingpage/LivingPage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MobileAutomationNYP/src/main/java/mediapage/MediaPage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MobileAutomationNYP/src/main/java/metropage/MetroPage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MobileAutomationNYP/src/main/java/newspage/NewsPage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MobileAutomationNYP/src/main/java/opinionpage/OpinionPage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MobileAutomationNYP/src/main/java/pagesix/PageSix.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MobileAutomationNYP/src/main/java/photospage/PhotoPage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MobileAutomationNYP/src/main/java/realestatepage/RealStatePage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MobileAutomationNYP/src/main/java/sportspage/SportsPage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MobileAutomationNYP/src/main/java/techpage/TechPage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MobileAutomationNYP/src/main/java/videopage/VideoPage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MobileAutomationNYP/src/main/resources/NYP dataTable.xls" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MobileAutomationNYP/src/main/resources/NYPTestRunner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MobileAutomationNYP/src/test/java/testbusinesspage/BusinessPageTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MobileAutomationNYP/src/test/java/testentertainment/EntertainmentTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MobileAutomationNYP/src/test/java/testexceldata/TestExcelData.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MobileAutomationNYP/src/test/java/testfashionpage/FashionPageTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MobileAutomationNYP/src/test/java/testhome/TestHome.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MobileAutomationNYP/src/test/java/testlateststories/TestLatestStories.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MobileAutomationNYP/src/test/java/testlivingpage/LivingPageTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MobileAutomationNYP/src/test/java/testmediapage/MediaPageTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MobileAutomationNYP/src/test/java/testmetropage/MetroPageTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MobileAutomationNYP/src/test/java/testnewspage/NewsPageTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MobileAutomationNYP/src/test/java/testopinionpage/OpinionPageTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MobileAutomationNYP/src/test/java/testpagesix/PageSixTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MobileAutomationNYP/src/test/java/testphotospage/PhotosPageTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MobileAutomationNYP/src/test/java/testrealestate/ReslEstateTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MobileAutomationNYP/src/test/java/testsportspage/SportsPageTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MobileAutomationNYP/src/test/java/testtechpage/TechPageTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MobileAutomationNYP/src/test/java/testvideopage/VideoPageTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Amazon/Extent-Report/ExtentReport.html" beforeDir="false" afterPath="$PROJECT_DIR$/Amazon/Extent-Report/ExtentReport.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Amazon/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Amazon/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Cigna/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Cigna/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Cnn/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Cnn/pom.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Generic/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Generic/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Generic/src/resources/secret.properties" beforeDir="false" afterPath="$PROJECT_DIR$/Generic/src/resources/secret.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Generic/src/main/java/base/CommonAPI.java" beforeDir="false" afterPath="$PROJECT_DIR$/Generic/src/main/java/base/CommonAPI.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
@@ -17,6 +57,7 @@
     <ignored path="$PROJECT_DIR$/Cnn/target/" />
     <ignored path="$PROJECT_DIR$/Facebook/target/" />
     <ignored path="$PROJECT_DIR$/Cigna/target/" />
+    <ignored path="$PROJECT_DIR$/MobileAutomationNYP/target/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -32,10 +73,10 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Facebook/src/test/java/pageobjecttest/LoginPageTest.java">
+        <entry file="file://$PROJECT_DIR$/Generic/src/main/java/common/CommonAPI_mobile.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="134">
-              <caret line="21" column="15" selection-start-line="21" selection-start-column="15" selection-end-line="21" selection-end-column="15" />
+            <state relative-caret-position="1455">
+              <caret line="97" column="57" selection-start-line="97" selection-start-column="57" selection-end-line="97" selection-end-column="57" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -44,88 +85,100 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Generic/src/resources/secret.properties">
+        <entry file="file://$PROJECT_DIR$/Amazon/src/main/java/loginPage/LoginPageNew.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="60">
-              <caret line="4" selection-start-line="4" selection-end-line="4" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Amazon/pom.xml">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="195">
-              <caret line="13" column="18" selection-start-line="13" selection-start-column="18" selection-end-line="13" selection-end-column="18" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Facebook/src/main/java/basepage/SearchFriend.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="105">
-              <caret line="7" column="25" selection-start-line="7" selection-start-column="25" selection-end-line="7" selection-end-column="25" />
+            <state relative-caret-position="70">
+              <caret line="7" column="13" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="13" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Facebook/src/main/java/dataReader/XlsxData.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="195">
-              <caret line="13" column="141" selection-start-line="13" selection-start-column="33" selection-end-line="13" selection-end-column="141" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Cigna/pom.xml">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="171">
-              <caret line="13" column="8" selection-start-line="13" selection-start-column="8" selection-end-line="18" selection-end-column="21" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Cnn/pom.xml">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="418">
-              <caret line="30" column="21" selection-start-line="30" selection-start-column="21" selection-end-line="30" selection-end-column="21" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Facebook/pom.xml">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="761">
-              <caret line="52" column="21" selection-start-line="52" selection-start-column="21" selection-end-line="52" selection-end-column="21" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/pom.xml">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="166">
-              <caret line="58" column="25" selection-start-line="58" selection-start-column="25" selection-end-line="58" selection-end-column="25" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/Generic/pom.xml">
+        <entry file="file://$PROJECT_DIR$/Amazon/src/test/java/loginPageTest/LoginPageTest.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="334">
-              <caret line="25" column="18" selection-start-line="25" selection-start-column="18" selection-end-line="25" selection-end-column="18" />
+            <state relative-caret-position="120">
+              <caret line="10" column="49" lean-forward="true" selection-start-line="10" selection-start-column="49" selection-end-line="10" selection-end-column="49" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Amazon/src/test/java/homePageTest/HomePageTest.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="150">
+              <caret line="10" column="22" selection-start-line="10" selection-start-column="22" selection-end-line="10" selection-end-column="22" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Amazon/src/test/java/homePageTest/TestHomePage.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-2422">
+              <caret line="8" lean-forward="true" selection-start-line="8" selection-end-line="8" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Amazon/src/test/java/loginPageTest/LoginPageTest1.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="105">
+              <caret line="7" column="13" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="13" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Amazon/src/test/java/loginPageTest/VerifyValidLogin.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="238">
+              <caret line="21" column="83" selection-start-line="21" selection-start-column="83" selection-end-line="21" selection-end-column="83" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Amazon/src/test/java/signinpagetest/SignInTest.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-37">
+              <caret line="18" column="24" selection-start-line="18" selection-start-column="24" selection-end-line="18" selection-end-column="24" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Amazon/src/test/java/menuPage/MenuPageTest.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="240">
+              <caret line="16" column="43" lean-forward="true" selection-start-line="16" selection-start-column="43" selection-end-line="16" selection-end-column="43" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/MobileAutomationNYP/src/main/java/homepage/HomePage.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="30">
+              <caret line="2" column="7" selection-start-line="2" selection-start-column="7" selection-end-line="2" selection-end-column="7" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -138,12 +191,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/Cigna/src/test/java/googleSheetPages/TestGoogleSheetPages.java" />
-        <option value="$PROJECT_DIR$/Facebook/src/main/java/Homepage/FBTest.java" />
-        <option value="$PROJECT_DIR$/Facebook/src/main/java/basepage/ProfilePage.java" />
-        <option value="$PROJECT_DIR$/Facebook/src/test/java/pageobjecttest/ProfilePageTest.java" />
-        <option value="$PROJECT_DIR$/Facebook/src/main/java/googlesheet/GoogleSheetSignin.java" />
-        <option value="$PROJECT_DIR$/Cigna/src/main/java/googleSheetPage/GoogleSheets.java" />
         <option value="$PROJECT_DIR$/Cigna/src/main/java/keyword/Features.java" />
         <option value="$PROJECT_DIR$/Cigna/src/main/java/search/SearchClass.java" />
         <option value="$PROJECT_DIR$/Cigna/src/test/java/testCases/TestPersonalPage.java" />
@@ -189,6 +236,12 @@
         <option value="$PROJECT_DIR$/Cigna/pom.xml" />
         <option value="$PROJECT_DIR$/Amazon/pom.xml" />
         <option value="$PROJECT_DIR$/Generic/pom.xml" />
+        <option value="$PROJECT_DIR$/MobileAutomationNYP/pom.xml" />
+        <option value="$PROJECT_DIR$/MobileAutomationNYP/src/main/java/businesspage/BusinessPage.java" />
+        <option value="$PROJECT_DIR$/Generic/src/main/java/common/CommonAPI.java" />
+        <option value="$PROJECT_DIR$/Generic/src/main/java/excelFileReader/ExcelFileReader.java" />
+        <option value="$PROJECT_DIR$/MobileAutomationNYP/src/main/java/entertainmentpage/EntertainmentPage.java" />
+        <option value="$PROJECT_DIR$/Generic/src/main/java/common/CommonAPI_mobile.java" />
       </list>
     </option>
   </component>
@@ -200,8 +253,9 @@
     </option>
   </component>
   <component name="ProjectFrameBounds" fullScreen="true">
+    <option name="x" value="755" />
     <option name="y" value="23" />
-    <option name="width" value="616" />
+    <option name="width" value="525" />
     <option name="height" value="777" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
@@ -210,8 +264,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="PackagesPane" />
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -227,53 +279,253 @@
             <path>
               <item name="BootCampLab2019" type="b2602c69:ProjectViewProjectNode" />
               <item name="BootCampLab2019" type="462c0819:PsiDirectoryNode" />
-              <item name="Cigna" type="462c0819:PsiDirectoryNode" />
+              <item name="Amazon" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="BootCampLab2019" type="b2602c69:ProjectViewProjectNode" />
               <item name="BootCampLab2019" type="462c0819:PsiDirectoryNode" />
-              <item name="Cnn" type="462c0819:PsiDirectoryNode" />
+              <item name="Amazon" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="BootCampLab2019" type="b2602c69:ProjectViewProjectNode" />
               <item name="BootCampLab2019" type="462c0819:PsiDirectoryNode" />
-              <item name="Facebook" type="462c0819:PsiDirectoryNode" />
+              <item name="Amazon" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="BootCampLab2019" type="b2602c69:ProjectViewProjectNode" />
+              <item name="BootCampLab2019" type="462c0819:PsiDirectoryNode" />
+              <item name="Amazon" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="dataSource" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="BootCampLab2019" type="b2602c69:ProjectViewProjectNode" />
+              <item name="BootCampLab2019" type="462c0819:PsiDirectoryNode" />
+              <item name="Amazon" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="loginPage" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="BootCampLab2019" type="b2602c69:ProjectViewProjectNode" />
+              <item name="BootCampLab2019" type="462c0819:PsiDirectoryNode" />
+              <item name="Amazon" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="BootCampLab2019" type="b2602c69:ProjectViewProjectNode" />
+              <item name="BootCampLab2019" type="462c0819:PsiDirectoryNode" />
+              <item name="Amazon" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="BootCampLab2019" type="b2602c69:ProjectViewProjectNode" />
+              <item name="BootCampLab2019" type="462c0819:PsiDirectoryNode" />
+              <item name="Amazon" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="homePageTest" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="BootCampLab2019" type="b2602c69:ProjectViewProjectNode" />
+              <item name="BootCampLab2019" type="462c0819:PsiDirectoryNode" />
+              <item name="Amazon" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="loginPageTest" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="BootCampLab2019" type="b2602c69:ProjectViewProjectNode" />
+              <item name="BootCampLab2019" type="462c0819:PsiDirectoryNode" />
+              <item name="Amazon" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="menuPage" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="BootCampLab2019" type="b2602c69:ProjectViewProjectNode" />
+              <item name="BootCampLab2019" type="462c0819:PsiDirectoryNode" />
+              <item name="Amazon" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="searchTest" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="BootCampLab2019" type="b2602c69:ProjectViewProjectNode" />
+              <item name="BootCampLab2019" type="462c0819:PsiDirectoryNode" />
+              <item name="Amazon" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="signinpagetest" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="BootCampLab2019" type="b2602c69:ProjectViewProjectNode" />
               <item name="BootCampLab2019" type="462c0819:PsiDirectoryNode" />
               <item name="Generic" type="462c0819:PsiDirectoryNode" />
             </path>
+            <path>
+              <item name="BootCampLab2019" type="b2602c69:ProjectViewProjectNode" />
+              <item name="BootCampLab2019" type="462c0819:PsiDirectoryNode" />
+              <item name="Generic" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="BootCampLab2019" type="b2602c69:ProjectViewProjectNode" />
+              <item name="BootCampLab2019" type="462c0819:PsiDirectoryNode" />
+              <item name="Generic" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="BootCampLab2019" type="b2602c69:ProjectViewProjectNode" />
+              <item name="BootCampLab2019" type="462c0819:PsiDirectoryNode" />
+              <item name="Generic" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="BootCampLab2019" type="b2602c69:ProjectViewProjectNode" />
+              <item name="BootCampLab2019" type="462c0819:PsiDirectoryNode" />
+              <item name="Generic" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="base" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="BootCampLab2019" type="b2602c69:ProjectViewProjectNode" />
+              <item name="BootCampLab2019" type="462c0819:PsiDirectoryNode" />
+              <item name="Generic" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="common" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="BootCampLab2019" type="b2602c69:ProjectViewProjectNode" />
+              <item name="BootCampLab2019" type="462c0819:PsiDirectoryNode" />
+              <item name="MobileAutomationNYP" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="BootCampLab2019" type="b2602c69:ProjectViewProjectNode" />
+              <item name="BootCampLab2019" type="462c0819:PsiDirectoryNode" />
+              <item name="MobileAutomationNYP" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="BootCampLab2019" type="b2602c69:ProjectViewProjectNode" />
+              <item name="BootCampLab2019" type="462c0819:PsiDirectoryNode" />
+              <item name="MobileAutomationNYP" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="app" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="BootCampLab2019" type="b2602c69:ProjectViewProjectNode" />
+              <item name="BootCampLab2019" type="462c0819:PsiDirectoryNode" />
+              <item name="MobileAutomationNYP" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="BootCampLab2019" type="b2602c69:ProjectViewProjectNode" />
+              <item name="BootCampLab2019" type="462c0819:PsiDirectoryNode" />
+              <item name="MobileAutomationNYP" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="BootCampLab2019" type="b2602c69:ProjectViewProjectNode" />
+              <item name="BootCampLab2019" type="462c0819:PsiDirectoryNode" />
+              <item name="MobileAutomationNYP" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="homepage" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="BootCampLab2019" type="b2602c69:ProjectViewProjectNode" />
+              <item name="BootCampLab2019" type="462c0819:PsiDirectoryNode" />
+              <item name="MobileAutomationNYP" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="resources" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="BootCampLab2019" type="b2602c69:ProjectViewProjectNode" />
+              <item name="BootCampLab2019" type="462c0819:PsiDirectoryNode" />
+              <item name="MobileAutomationNYP" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="BootCampLab2019" type="b2602c69:ProjectViewProjectNode" />
+              <item name="BootCampLab2019" type="462c0819:PsiDirectoryNode" />
+              <item name="MobileAutomationNYP" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="BootCampLab2019" type="b2602c69:ProjectViewProjectNode" />
+              <item name="BootCampLab2019" type="462c0819:PsiDirectoryNode" />
+              <item name="MobileAutomationNYP" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="testhome" type="462c0819:PsiDirectoryNode" />
+            </path>
           </expand>
           <select />
         </subPane>
       </pane>
+      <pane id="Scope" />
+      <pane id="PackagesPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/Facebook/src/main/java/basepage" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/MobileAutomationNYP/src/main/resources" />
     <property name="project.structure.last.edited" value="Project" />
     <property name="project.structure.proportion" value="0.0" />
     <property name="project.structure.side.proportion" value="0.0" />
     <property name="settings.editor.selected.configurable" value="reference.projectsettings.compiler.javacompiler" />
   </component>
   <component name="RecentsManager">
-    <key name="CopyFile.RECENT_KEYS">
-      <recent name="$PROJECT_DIR$/Facebook/src/main/java/basepage" />
-      <recent name="$PROJECT_DIR$/Facebook/src/main/java" />
-      <recent name="$PROJECT_DIR$/Facebook/src/test/java/pageobjecttest" />
-      <recent name="$PROJECT_DIR$/Facebook" />
-      <recent name="$PROJECT_DIR$/Cnn" />
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/Cigna" />
     </key>
     <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="excelFileReader" />
+      <recent name="common" />
       <recent name="googleAPIs" />
       <recent name="news" />
       <recent name="utility" />
-      <recent name="base" />
     </key>
-    <key name="MoveFile.RECENT_KEYS">
-      <recent name="$PROJECT_DIR$/Cigna" />
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/MobileAutomationNYP/src/main/resources" />
+      <recent name="$PROJECT_DIR$/MobileAutomationNYP/src/test/java" />
+      <recent name="$PROJECT_DIR$/MobileAutomationNYP/src/main/java" />
+      <recent name="$PROJECT_DIR$/MobileAutomationNYP/src" />
+      <recent name="$PROJECT_DIR$/Facebook/src/main/java/basepage" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -288,44 +540,89 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="TestNG./Users/mdhasan/Documents/GitHub/BootCampLab2019/Facebook/src/main/resources/Facebookrunner.xml">
-    <configuration name="ReadExcel" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="dataReader.ReadExcel" />
-      <module name="Facebook" />
+  <component name="RunManager" selected="TestNG.LoginPageTest.LoginByValidLoginIdPassword">
+    <configuration name="HomePageTest.test1" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="Amazon" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="dataReader.*" />
+          <option name="PATTERN" value="homePageTest.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="/Users/mdhasan/Documents/GitHub/BootCampLab2019/Cigna/src/main/resources/CignaTestRunner.xml" type="TestNG" temporary="true" nameIsGenerated="true">
-      <module name="Cigna" />
-      <option name="SUITE_NAME" value="$PROJECT_DIR$/Cigna/src/main/resources/CignaTestRunner.xml" />
-      <option name="TEST_OBJECT" value="SUITE" />
+      <option name="PACKAGE_NAME" value="homePageTest" />
+      <option name="MAIN_CLASS_NAME" value="homePageTest.HomePageTest" />
+      <option name="METHOD_NAME" value="test1" />
+      <option name="TEST_OBJECT" value="METHOD" />
       <properties />
       <listeners />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="/Users/mdhasan/Documents/GitHub/BootCampLab2019/Cnn/src/main/resources/CnnHome.xml" type="TestNG" temporary="true" nameIsGenerated="true">
-      <module name="Cnn" />
-      <option name="SUITE_NAME" value="$PROJECT_DIR$/Cnn/src/main/resources/CnnHome.xml" />
-      <option name="TEST_OBJECT" value="SUITE" />
+    <configuration name="LoginPageTest.LoginByInvalidLoginIdPassword" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="Amazon" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="loginPageTest.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="loginPageTest" />
+      <option name="MAIN_CLASS_NAME" value="loginPageTest.LoginPageTest" />
+      <option name="METHOD_NAME" value="LoginByInvalidLoginIdPassword" />
+      <option name="TEST_OBJECT" value="METHOD" />
       <properties />
       <listeners />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="/Users/mdhasan/Documents/GitHub/BootCampLab2019/Facebook/src/main/resources/Facebookrunner.xml" type="TestNG" temporary="true" nameIsGenerated="true">
-      <module name="Facebook" />
-      <option name="SUITE_NAME" value="$PROJECT_DIR$/Facebook/src/main/resources/Facebookrunner.xml" />
-      <option name="TEST_OBJECT" value="SUITE" />
+    <configuration name="LoginPageTest.LoginByValidLoginIdPassword" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="Amazon" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="loginPageTest.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="loginPageTest" />
+      <option name="MAIN_CLASS_NAME" value="loginPageTest.LoginPageTest" />
+      <option name="METHOD_NAME" value="LoginByValidLoginIdPassword" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SignInTest" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="Amazon" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="signinpagetest.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="signinpagetest" />
+      <option name="MAIN_CLASS_NAME" value="signinpagetest.SignInTest" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TestHomePage" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="Amazon" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="homePageTest.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="homePageTest" />
+      <option name="MAIN_CLASS_NAME" value="homePageTest.TestHomePage" />
+      <option name="TEST_OBJECT" value="CLASS" />
       <properties />
       <listeners />
       <method v="2">
@@ -334,10 +631,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="TestNG./Users/mdhasan/Documents/GitHub/BootCampLab2019/Facebook/src/main/resources/Facebookrunner.xml" />
-        <item itemvalue="Application.ReadExcel" />
-        <item itemvalue="TestNG./Users/mdhasan/Documents/GitHub/BootCampLab2019/Cnn/src/main/resources/CnnHome.xml" />
-        <item itemvalue="TestNG./Users/mdhasan/Documents/GitHub/BootCampLab2019/Cigna/src/main/resources/CignaTestRunner.xml" />
+        <item itemvalue="TestNG.LoginPageTest.LoginByValidLoginIdPassword" />
+        <item itemvalue="TestNG.LoginPageTest.LoginByInvalidLoginIdPassword" />
+        <item itemvalue="TestNG.TestHomePage" />
+        <item itemvalue="TestNG.HomePageTest.test1" />
+        <item itemvalue="TestNG.SignInTest" />
       </list>
     </recent_temporary>
   </component>
@@ -355,41 +653,42 @@
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="_Users_mdhasan_Documents_GitHub_BootCampLab2019_Facebook_src_main_resources_Facebookrunner_xml - 2019.06.18 at 15h 42m 48s.xml">
-      <configuration name="/Users/mdhasan/Documents/GitHub/BootCampLab2019/Facebook/src/main/resources/Facebookrunner.xml" configurationId="TestNG" />
-    </history-entry>
-    <history-entry file="_Users_mdhasan_Documents_GitHub_BootCampLab2019_Facebook_src_main_resources_Facebookrunner_xml - 2019.06.18 at 15h 44m 34s.xml">
-      <configuration name="/Users/mdhasan/Documents/GitHub/BootCampLab2019/Facebook/src/main/resources/Facebookrunner.xml" configurationId="TestNG" />
-    </history-entry>
-    <history-entry file="_Users_mdhasan_Documents_GitHub_BootCampLab2019_Facebook_src_main_resources_Facebookrunner_xml - 2019.06.18 at 16h 15m 13s.xml">
-      <configuration name="/Users/mdhasan/Documents/GitHub/BootCampLab2019/Facebook/src/main/resources/Facebookrunner.xml" configurationId="TestNG" />
-    </history-entry>
-    <history-entry file="_Users_mdhasan_Documents_GitHub_BootCampLab2019_Facebook_src_main_resources_Facebookrunner_xml - 2019.06.18 at 16h 22m 47s.xml">
-      <configuration name="/Users/mdhasan/Documents/GitHub/BootCampLab2019/Facebook/src/main/resources/Facebookrunner.xml" configurationId="TestNG" />
-    </history-entry>
-    <history-entry file="_Users_mdhasan_Documents_GitHub_BootCampLab2019_Facebook_src_main_resources_Facebookrunner_xml - 2019.06.18 at 16h 23m 19s.xml">
-      <configuration name="/Users/mdhasan/Documents/GitHub/BootCampLab2019/Facebook/src/main/resources/Facebookrunner.xml" configurationId="TestNG" />
-    </history-entry>
-    <history-entry file="_Users_mdhasan_Documents_GitHub_BootCampLab2019_Facebook_src_main_resources_Facebookrunner_xml - 2019.06.18 at 16h 24m 04s.xml">
-      <configuration name="/Users/mdhasan/Documents/GitHub/BootCampLab2019/Facebook/src/main/resources/Facebookrunner.xml" configurationId="TestNG" />
-    </history-entry>
-    <history-entry file="_Users_mdhasan_Documents_GitHub_BootCampLab2019_Facebook_src_main_resources_Facebookrunner_xml - 2019.06.18 at 16h 25m 18s.xml">
-      <configuration name="/Users/mdhasan/Documents/GitHub/BootCampLab2019/Facebook/src/main/resources/Facebookrunner.xml" configurationId="TestNG" />
-    </history-entry>
-    <history-entry file="_Users_mdhasan_Documents_GitHub_BootCampLab2019_Facebook_src_main_resources_Facebookrunner_xml - 2019.06.18 at 16h 27m 36s.xml">
-      <configuration name="/Users/mdhasan/Documents/GitHub/BootCampLab2019/Facebook/src/main/resources/Facebookrunner.xml" configurationId="TestNG" />
-    </history-entry>
-    <history-entry file="_Users_mdhasan_Documents_GitHub_BootCampLab2019_Facebook_src_main_resources_Facebookrunner_xml - 2019.06.18 at 16h 33m 56s.xml">
-      <configuration name="/Users/mdhasan/Documents/GitHub/BootCampLab2019/Facebook/src/main/resources/Facebookrunner.xml" configurationId="TestNG" />
-    </history-entry>
     <history-entry file="_Users_mdhasan_Documents_GitHub_BootCampLab2019_Facebook_src_main_resources_Facebookrunner_xml - 2019.06.18 at 16h 36m 39s.xml">
       <configuration name="/Users/mdhasan/Documents/GitHub/BootCampLab2019/Facebook/src/main/resources/Facebookrunner.xml" configurationId="TestNG" />
+    </history-entry>
+    <history-entry file="_Users_mdhasan_Documents_GitHub_BootCampLab2019_MobileAutomationNYP_src_main_resources_NYPTestRunner_xml - 2019.06.18 at 18h 54m 30s.xml">
+      <configuration name="/Users/mdhasan/Documents/GitHub/BootCampLab2019/MobileAutomationNYP/src/main/resources/NYPTestRunner.xml" configurationId="TestNG" />
+    </history-entry>
+    <history-entry file="_Users_mdhasan_Documents_GitHub_BootCampLab2019_MobileAutomationNYP_src_main_resources_NYPTestRunner_xml - 2019.06.18 at 19h 37m 13s.xml">
+      <configuration name="/Users/mdhasan/Documents/GitHub/BootCampLab2019/MobileAutomationNYP/src/main/resources/NYPTestRunner.xml" configurationId="TestNG" />
+    </history-entry>
+    <history-entry file="_Users_mdhasan_Documents_GitHub_BootCampLab2019_MobileAutomationNYP_src_main_resources_NYPTestRunner_xml - 2019.06.18 at 19h 38m 12s.xml">
+      <configuration name="/Users/mdhasan/Documents/GitHub/BootCampLab2019/MobileAutomationNYP/src/main/resources/NYPTestRunner.xml" configurationId="TestNG" />
+    </history-entry>
+    <history-entry file="TestHome - 2019.06.18 at 19h 39m 44s.xml">
+      <configuration name="TestHome" configurationId="TestNG" />
+    </history-entry>
+    <history-entry file="TestHome - 2019.06.18 at 19h 41m 46s.xml">
+      <configuration name="TestHome" configurationId="TestNG" />
+    </history-entry>
+    <history-entry file="SignInTest - 2019.06.18 at 19h 57m 07s.xml">
+      <configuration name="SignInTest" configurationId="TestNG" />
+    </history-entry>
+    <history-entry file="HomePageTest_test1 - 2019.06.18 at 19h 59m 49s.xml">
+      <configuration name="HomePageTest.test1" configurationId="TestNG" />
+    </history-entry>
+    <history-entry file="TestHomePage - 2019.06.18 at 20h 03m 59s.xml">
+      <configuration name="TestHomePage" configurationId="TestNG" />
+    </history-entry>
+    <history-entry file="LoginPageTest_LoginByInvalidLoginIdPassword - 2019.06.18 at 20h 05m 05s.xml">
+      <configuration name="LoginPageTest.LoginByInvalidLoginIdPassword" configurationId="TestNG" />
     </history-entry>
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1280" height="800" extended-state="0" />
+    <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.28836834" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.23424879" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -397,13 +696,13 @@
       <window_info id="Capture Tool" order="5" />
       <window_info id="Favorites" order="6" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
-      <window_info anchor="bottom" id="Find" order="1" weight="0.32876712" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.32876712" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.32846716" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.32876712" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
-      <window_info active="true" anchor="bottom" id="Terminal" order="7" visible="true" weight="0.27260274" />
+      <window_info anchor="bottom" id="Terminal" order="7" weight="0.110948905" />
       <window_info anchor="bottom" id="Event Log" order="8" side_tool="true" />
       <window_info anchor="bottom" id="Version Control" order="9" />
       <window_info anchor="bottom" id="Messages" order="10" weight="0.32876712" />
@@ -418,212 +717,6 @@
     </layout>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/Cigna/src/test/java/testCases/TestLoginPage.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="165">
-          <caret line="11" column="13" selection-start-line="11" selection-start-column="13" selection-end-line="11" selection-end-column="13" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Cigna/src/main/java/search/IteamsToBeSearched.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="105">
-          <caret line="7" column="36" selection-start-line="7" selection-start-column="36" selection-end-line="7" selection-end-column="36" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/report-config.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="195">
-          <caret line="13" column="32" lean-forward="true" selection-start-line="13" selection-start-column="32" selection-end-line="13" selection-end-column="32" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Amazon/src/main/resources/amazonTestRunnerFile.xml">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Cigna/report-config.xml">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Amazon/report-config.xml">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Cnn/report-config.xml">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Facebook/report-config.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="195">
-          <caret line="13" column="34" selection-start-line="13" selection-start-column="34" selection-end-line="13" selection-end-column="34" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_192.jdk/Contents/Home/jre/lib/rt.jar!/sun/reflect/NativeMethodAccessorImpl.class">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="256">
-          <caret line="26" selection-start-line="26" selection-end-line="26" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Cigna/src/main/resources/CignaTestRunner.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="285">
-          <caret line="19" column="8" selection-start-line="19" selection-start-column="8" selection-end-line="19" selection-end-column="8" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Cnn/src/test/java/NavTab.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="75">
-          <caret line="9" column="13" selection-start-line="9" selection-start-column="13" selection-end-line="9" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Cnn/src/test/java/Search.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="45">
-          <caret line="3" selection-start-line="3" selection-end-line="3" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Cnn/src/test/java/CnnHome.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="75">
-          <caret line="7" column="13" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="20" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Cnn/src/main/resources/CnnHome.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="240">
-          <caret line="16" column="34" selection-start-line="16" selection-start-column="34" selection-end-line="16" selection-end-column="34" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Cnn/src/test/java/TechNewsContents.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="75">
-          <caret line="9" column="45" selection-start-line="9" selection-start-column="45" selection-end-line="9" selection-end-column="45" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Amazon/src/test/java/loginPageTest/VerifyValidLogin.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="60">
-          <caret line="9" column="13" selection-start-line="9" selection-start-column="13" selection-end-line="9" selection-end-column="13" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Amazon/src/test/java/loginPageTest/LoginPageTest1.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="255">
-          <caret line="20" selection-start-line="20" selection-end-line="20" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Amazon/src/test/java/loginPageTest/LoginPageTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="225">
-          <caret line="17" column="5" selection-start-line="17" selection-start-column="5" selection-end-line="17" selection-end-column="5" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Amazon/src/test/java/signinpagetest/SignInTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="45">
-          <caret line="3" column="7" selection-start-line="3" selection-start-column="7" selection-end-line="3" selection-end-column="7" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Facebook/src/main/java/googlesheet/GoogleSheetSignin.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="45">
-          <caret line="11" column="66" selection-start-line="11" selection-start-column="66" selection-end-line="11" selection-end-column="66" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Facebook/src/test/java/googlesheettestPack/GoogleSheetTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="135">
-          <caret line="9" column="29" selection-start-line="9" selection-start-column="29" selection-end-line="9" selection-end-column="29" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Amazon/src/test/java/menuPage/MenuPageTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="105">
-          <caret line="13" column="50" selection-start-line="13" selection-start-column="50" selection-end-line="13" selection-end-column="50" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Facebook/src/main/java/config/config.properties">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="75">
-          <caret line="5" lean-forward="true" selection-start-line="5" selection-end-line="5" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Facebook/src/main/resources/secret.properties">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Facebook/src/main/resources/Facebookrunner.xml">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Facebook/src/main/java/basepage/ProfilePage.java">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Cigna/.credentials/sheets-googleapis/StoredCredential">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Cigna/client_secret.json">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Generic/src/main/java/base/CommonAPI.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-1914">
-          <caret line="10" column="49" selection-start-line="10" selection-start-column="49" selection-end-line="10" selection-end-column="49" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Generic/src/main/java/databases/ConnectToSqlDB.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="150">
-          <caret line="325" column="42" selection-start-line="325" selection-start-column="42" selection-end-line="325" selection-end-column="42" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Generic/src/main/java/googleAPIs/GoogleSheetReader.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="150">
-          <caret line="12" column="43" selection-start-line="12" selection-start-column="43" selection-end-line="12" selection-end-column="43" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Facebook/src/test/java/pageobjecttest/XlsxDataTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="135">
-          <caret line="9" column="5" selection-start-line="9" selection-start-column="5" selection-end-line="9" selection-end-column="5" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/Facebook/src/test/java/pageobjecttest/SearchTest.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="60">
@@ -692,36 +785,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Facebook/src/main/java/dataReader/XlsxData.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="195">
-          <caret line="13" column="141" selection-start-line="13" selection-start-column="33" selection-end-line="13" selection-end-column="141" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Facebook/src/main/java/basepage/SearchFriend.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="105">
-          <caret line="7" column="25" selection-start-line="7" selection-start-column="25" selection-end-line="7" selection-end-column="25" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Facebook/src/main/java/utility/FbUtility.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="45">
-          <caret line="3" column="1" selection-start-line="3" selection-start-column="1" selection-end-line="3" selection-end-column="1" />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/Facebook/src/main/java/utility/FbUtility.java" />
     <entry file="file://$PROJECT_DIR$/Facebook/src/test/java/pageobjecttest/LoginPageTest.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="134">
+        <state relative-caret-position="240">
           <caret line="21" column="15" selection-start-line="21" selection-start-column="15" selection-end-line="21" selection-end-column="15" />
           <folding>
             <element signature="imports" expanded="true" />
@@ -736,16 +803,50 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/Amazon/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="195">
+          <caret line="13" column="18" selection-start-line="13" selection-start-column="18" selection-end-line="13" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Facebook/src/main/java/basepage/SearchFriend.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="75">
+          <caret line="7" column="25" selection-start-line="7" selection-start-column="25" selection-end-line="7" selection-end-column="25" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Facebook/src/main/java/dataReader/XlsxData.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="150">
+          <caret line="13" column="141" selection-start-line="13" selection-start-column="33" selection-end-line="13" selection-end-column="141" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/Facebook/pom.xml">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="761">
+        <state relative-caret-position="780">
           <caret line="52" column="21" selection-start-line="52" selection-start-column="21" selection-end-line="52" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Generic/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="60">
+          <caret line="29" column="27" selection-start-line="29" selection-start-column="27" selection-end-line="29" selection-end-column="27" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/Cnn/pom.xml">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="418">
+        <state relative-caret-position="98">
           <caret line="30" column="21" selection-start-line="30" selection-start-column="21" selection-end-line="30" selection-end-column="21" />
         </state>
       </provider>
@@ -757,24 +858,213 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Amazon/pom.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="195">
-          <caret line="13" column="18" selection-start-line="13" selection-start-column="18" selection-end-line="13" selection-end-column="18" />
-        </state>
-      </provider>
+    <entry file="file://$PROJECT_DIR$/MobileAutomationNYP/src/main/java/mediapage/MediaPage.java">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/MobileAutomationNYP/src/main/java/opinionpage/OpinionPage.java">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/MobileAutomationNYP/src/main/java/metropage/MetroPage.java">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/MobileAutomationNYP/src/main/java/videopage/VideoPage.java">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/MobileAutomationNYP/src/main/java/livingpage/LivingPage.java">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/MobileAutomationNYP/src/main/java/newspage/NewsPage.java">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/MobileAutomationNYP/src/test/java/testmediapage/MediaPageTest.java">
+      <provider selected="true" editor-type-id="text-editor" />
     </entry>
     <entry file="file://$PROJECT_DIR$/pom.xml">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="166">
-          <caret line="58" column="25" selection-start-line="58" selection-start-column="25" selection-end-line="58" selection-end-column="25" />
+        <state relative-caret-position="227">
+          <caret line="16" column="36" selection-start-line="16" selection-start-column="36" selection-end-line="16" selection-end-column="36" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Generic/pom.xml">
+    <entry file="file://$PROJECT_DIR$/MobileAutomationNYP/src/test/java/testpagesix/PageSixTest.java">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/MobileAutomationNYP/src/test/java/testnewspage/NewsPageTest.java">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/MobileAutomationNYP/src/test/java/testlateststories/TestLatestStories.java">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/MobileAutomationNYP/src/test/java/testrealestate/ReslEstateTest.java">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/MobileAutomationNYP/src/test/java/testentertainment/EntertainmentTest.java">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/MobileAutomationNYP/src/test/java/testbusinesspage/BusinessPageTest.java">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/MobileAutomationNYP/src/test/java/testlivingpage/LivingPageTest.java">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/MobileAutomationNYP/src/test/java/testsportspage/SportsPageTest.java">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Generic/src/main/java/excelFileReader/ExcelFileReader.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="334">
-          <caret line="25" column="18" selection-start-line="25" selection-start-column="18" selection-end-line="25" selection-end-column="18" />
+        <state relative-caret-position="30">
+          <caret line="2" column="7" selection-start-line="2" selection-start-column="7" selection-end-line="2" selection-end-column="7" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/MobileAutomationNYP/src/main/java/businesspage/BusinessPage.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="240">
+          <caret line="18" column="24" selection-start-line="18" selection-start-column="24" selection-end-line="18" selection-end-column="24" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/MobileAutomationNYP/src/main/java/entertainmentpage/EntertainmentPage.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="150">
+          <caret line="11" column="37" selection-start-line="11" selection-start-column="37" selection-end-line="11" selection-end-column="37" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/MobileAutomationNYP/src/main/java/excelData/SearchForData.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="30">
+          <caret line="2" column="7" selection-start-line="2" selection-start-column="7" selection-end-line="2" selection-end-column="7" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/MobileAutomationNYP/src/main/java/fashionpage/FashionPage.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="30">
+          <caret line="2" column="7" selection-start-line="2" selection-start-column="7" selection-end-line="2" selection-end-column="7" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/MobileAutomationNYP/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="300">
+          <caret line="20" selection-start-line="20" selection-end-line="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/MobileAutomationNYP/src/test/java/testhome/TestHome.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="30">
+          <caret line="2" column="7" selection-start-line="2" selection-start-column="7" selection-end-line="2" selection-end-column="7" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/MobileAutomationNYP/src/main/java/homepage/HomePage.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="30">
+          <caret line="2" column="7" selection-start-line="2" selection-start-column="7" selection-end-line="2" selection-end-column="7" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Generic/src/main/java/common/CommonAPI_mobile.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1455">
+          <caret line="97" column="57" selection-start-line="97" selection-start-column="57" selection-end-line="97" selection-end-column="57" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Amazon/src/main/java/loginPage/LoginPageNew.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="70">
+          <caret line="7" column="13" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="13" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Amazon/src/test/java/loginPageTest/VerifyValidLogin.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="238">
+          <caret line="21" column="83" selection-start-line="21" selection-start-column="83" selection-end-line="21" selection-end-column="83" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Amazon/src/test/java/menuPage/MenuPageTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="240">
+          <caret line="16" column="43" lean-forward="true" selection-start-line="16" selection-start-column="43" selection-end-line="16" selection-end-column="43" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Amazon/src/test/java/signinpagetest/SignInTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-37">
+          <caret line="18" column="24" selection-start-line="18" selection-start-column="24" selection-end-line="18" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Amazon/src/test/java/loginPageTest/LoginPageTest1.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="105">
+          <caret line="7" column="13" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="13" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Amazon/src/test/java/homePageTest/HomePageTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="150">
+          <caret line="10" column="22" selection-start-line="10" selection-start-column="22" selection-end-line="10" selection-end-column="22" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Amazon/src/test/java/homePageTest/TestHomePage.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-2422">
+          <caret line="8" lean-forward="true" selection-start-line="8" selection-end-line="8" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Amazon/src/test/java/loginPageTest/LoginPageTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="120">
+          <caret line="10" column="49" lean-forward="true" selection-start-line="10" selection-start-column="49" selection-end-line="10" selection-end-column="49" />
         </state>
       </provider>
     </entry>

@@ -546,7 +546,7 @@ public class CommonAPI {
 //import java.util.List;
 //import java.util.concurrent.TimeUnit;
 //
-//public class CommonAPI {
+//public class CommonAPI_mobile {
 //    public static final String BROWSERSTACK_USERNAME = "";
 //    public static final String BROWSERSTACK_AUTOMATE_KEY = "";
 //    public static final String SAUCE_USERNAME = "";

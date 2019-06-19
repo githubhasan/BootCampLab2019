@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Android test suite on Android Phone">
+
+    <parameter name="OS" value="Android"/>
+    <parameter name="appType" value="Phone"/>
+    <parameter name="deviceType" value="Emulator"/>
+    <parameter name="deviceName" value="Android Emulator"/>
+    <parameter name="version" value="8.1"/>
+    <parameter name="moduleName" value="NYP"/>
+    <parameter name="appName" value="nyp.apk"/>
+
+    <test name="Go to Home page" preserve-order="true">
+        <classes>
+            <class name="testbusinesspage.BusinessPageTest"/>
+            <!--<class name="testlateststories.TestLatestStories"/>-->
+            <!--<class name="testentertainment.EntertainmentTest"/>-->
+            <!--<class name="testfashionpage.FashionPageTest"/>-->
+            <!--<class name="testhome.TestHome"/>-->
+            <!--<class name="testlivingpage.LivingPageTest"/>-->
+            <!--<class name="testmediapage.MediaPageTest"/>-->
+            <!--<class name="testmetropage.MetroPageTest"/>-->
+            <!--<class name="testnewspage.NewsPageTest"/>-->
+            <!--<class name="testopinionpage.OpinionPageTest"/>-->
+            <!--<class name="testpagesix.PageSixTest"/>-->
+            <!--<class name="testphotospage.PhotosPageTest"/>-->
+            <!--<class name="testrealestate.ReslEstateTest"/>-->
+            <!--<class name="testsportspage.SportsPageTest"/>-->
+            <!--<class name="testtechpage.TechPageTest"/>-->
+            <!--<class name="testvideopage.VideoPageTest"/>-->
+            <!--<class name="testexceldata.TestExcelData"/>-->
+
+        </classes>
+    </test>
+</suite>

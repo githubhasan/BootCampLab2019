@@ -14,6 +14,7 @@
         <module>Cnn</module>
         <module>Facebook</module>
         <module>Cigna</module>
+        <module>MobileAutomationNYP</module>
     </modules>
     <dependencyManagement>
 
