@@ -17,6 +17,7 @@
         <module>MobileAutomationNYP</module>
         <module>CitiBank</module>
         <module>RestAPI</module>
+        <module>MobileAutomationWalmart</module>
     </modules>
     <dependencyManagement>
 

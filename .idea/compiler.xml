@@ -11,6 +11,7 @@
         <module name="Amazon" />
         <module name="Facebook" />
         <module name="Cnn" />
+        <module name="MobileAutomationWalmart" />
         <module name="Generic" />
         <module name="Cigna" />
         <module name="MobileAutomationNYP" />
