@@ -16,6 +16,7 @@
         <module>Cigna</module>
         <module>MobileAutomationNYP</module>
         <module>CitiBank</module>
+        <module>RestAPI</module>
     </modules>
     <dependencyManagement>
 
