@@ -15,6 +15,7 @@
         <module>Facebook</module>
         <module>Cigna</module>
         <module>MobileAutomationNYP</module>
+        <module>CitiBank</module>
     </modules>
     <dependencyManagement>
 
