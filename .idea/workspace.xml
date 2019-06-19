@@ -1,17 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="17b826c5-faf3-4f4c-ae2c-3ed1ca6ab494" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/MobileAutomationWalmart/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/MobileAutomationWalmart/src/app/Walmart_new.apk" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/MobileAutomationWalmart/src/app/Walmart_old.apk" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/MobileAutomationWalmart/src/main/java/homepage/HomePage.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/MobileAutomationWalmart/src/main/resources/WallmartTestRunnerFile.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/MobileAutomationWalmart/src/test/java/testhomepage/TestHomePage.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-    </list>
+    <list default="true" id="17b826c5-faf3-4f4c-ae2c-3ed1ca6ab494" name="Default Changelist" comment="" />
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
     <ignored path="$PROJECT_DIR$/Generic/target/" />
@@ -37,15 +27,6 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/CitiBank/src/main/java/topHeader/OpenNAccountOption.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="225">
-              <caret line="15" column="1" selection-start-line="15" selection-start-column="1" selection-end-line="15" selection-end-column="1" />
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/RestAPI/pom.xml">
           <provider selected="true" editor-type-id="text-editor">
@@ -73,7 +54,7 @@
         <entry file="file://$PROJECT_DIR$/MobileAutomationWalmart/pom.xml">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="285">
-              <caret line="19" column="21" lean-forward="true" selection-start-line="19" selection-start-column="21" selection-end-line="19" selection-end-column="21" />
+              <caret line="19" column="21" selection-start-line="19" selection-start-column="21" selection-end-line="19" selection-end-column="21" />
             </state>
           </provider>
         </entry>
@@ -81,15 +62,34 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/MobileAutomationWalmart/src/main/java/homepage/HomePage.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="30">
-              <caret line="2" column="20" selection-start-line="2" selection-start-column="20" selection-end-line="2" selection-end-column="20" />
+            <state relative-caret-position="105">
+              <caret line="7" column="13" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="13" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Generic/src/main/java/base/MobileAPI2.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="1215">
+              <caret line="81" column="172" selection-start-line="81" selection-start-column="172" selection-end-line="81" selection-end-column="172" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/Generic/src/main/java/base/MobileAPI2.java">
-          <provider selected="true" editor-type-id="text-editor" />
+        <entry file="file://$PROJECT_DIR$/pom.xml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="285">
+              <caret line="19" column="48" lean-forward="true" selection-start-line="19" selection-start-column="48" selection-end-line="19" selection-end-column="48" />
+            </state>
+          </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
@@ -206,86 +206,12 @@
             <path>
               <item name="BootCampLab2019" type="b2602c69:ProjectViewProjectNode" />
               <item name="BootCampLab2019" type="462c0819:PsiDirectoryNode" />
-              <item name="Generic" type="462c0819:PsiDirectoryNode" />
+              <item name="Amazon" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="BootCampLab2019" type="b2602c69:ProjectViewProjectNode" />
               <item name="BootCampLab2019" type="462c0819:PsiDirectoryNode" />
-              <item name="Generic" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="BootCampLab2019" type="b2602c69:ProjectViewProjectNode" />
-              <item name="BootCampLab2019" type="462c0819:PsiDirectoryNode" />
-              <item name="Generic" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="BootCampLab2019" type="b2602c69:ProjectViewProjectNode" />
-              <item name="BootCampLab2019" type="462c0819:PsiDirectoryNode" />
-              <item name="Generic" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="BootCampLab2019" type="b2602c69:ProjectViewProjectNode" />
-              <item name="BootCampLab2019" type="462c0819:PsiDirectoryNode" />
-              <item name="Generic" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="base" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="BootCampLab2019" type="b2602c69:ProjectViewProjectNode" />
-              <item name="BootCampLab2019" type="462c0819:PsiDirectoryNode" />
-              <item name="MobileAutomationWalmart" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="BootCampLab2019" type="b2602c69:ProjectViewProjectNode" />
-              <item name="BootCampLab2019" type="462c0819:PsiDirectoryNode" />
-              <item name="MobileAutomationWalmart" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="BootCampLab2019" type="b2602c69:ProjectViewProjectNode" />
-              <item name="BootCampLab2019" type="462c0819:PsiDirectoryNode" />
-              <item name="MobileAutomationWalmart" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="app" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="BootCampLab2019" type="b2602c69:ProjectViewProjectNode" />
-              <item name="BootCampLab2019" type="462c0819:PsiDirectoryNode" />
-              <item name="MobileAutomationWalmart" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="BootCampLab2019" type="b2602c69:ProjectViewProjectNode" />
-              <item name="BootCampLab2019" type="462c0819:PsiDirectoryNode" />
-              <item name="MobileAutomationWalmart" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="BootCampLab2019" type="b2602c69:ProjectViewProjectNode" />
-              <item name="BootCampLab2019" type="462c0819:PsiDirectoryNode" />
-              <item name="MobileAutomationWalmart" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="homepage" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="BootCampLab2019" type="b2602c69:ProjectViewProjectNode" />
-              <item name="BootCampLab2019" type="462c0819:PsiDirectoryNode" />
-              <item name="MobileAutomationWalmart" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="test" type="462c0819:PsiDirectoryNode" />
+              <item name="CitiBank" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -296,7 +222,7 @@
   </component>
   <component name="PropertiesComponent">
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/MobileAutomationWalmart/src/main/resources" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/CitiBank" />
     <property name="project.structure.last.edited" value="Project" />
     <property name="project.structure.proportion" value="0.0" />
     <property name="project.structure.side.proportion" value="0.0" />
@@ -478,9 +404,9 @@
     </history-entry>
   </component>
   <component name="ToolWindowManager">
-    <frame x="2" y="23" width="773" height="777" extended-state="0" />
+    <frame x="0" y="0" width="1280" height="800" extended-state="0" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.40218878" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.2374798" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -494,7 +420,7 @@
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
-      <window_info anchor="bottom" id="Terminal" order="7" visible="true" weight="0.11678832" />
+      <window_info anchor="bottom" id="Terminal" order="7" visible="true" weight="0.17671233" />
       <window_info anchor="bottom" id="Event Log" order="8" side_tool="true" />
       <window_info anchor="bottom" id="Version Control" order="9" />
       <window_info anchor="bottom" id="Messages" order="10" weight="0.32876712" />
@@ -509,9 +435,6 @@
     </layout>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/MobileAutomationNYP/src/test/java/testlivingpage/LivingPageTest.java">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
     <entry file="file://$PROJECT_DIR$/MobileAutomationNYP/src/test/java/testsportspage/SportsPageTest.java">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
@@ -859,19 +782,36 @@
     <entry file="file://$PROJECT_DIR$/MobileAutomationWalmart/pom.xml">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="285">
-          <caret line="19" column="21" lean-forward="true" selection-start-line="19" selection-start-column="21" selection-end-line="19" selection-end-column="21" />
+          <caret line="19" column="21" selection-start-line="19" selection-start-column="21" selection-end-line="19" selection-end-column="21" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/MobileAutomationWalmart/src/main/java/homepage/HomePage.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="30">
-          <caret line="2" column="20" selection-start-line="2" selection-start-column="20" selection-end-line="2" selection-end-column="20" />
+        <state relative-caret-position="105">
+          <caret line="7" column="13" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="13" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/Generic/src/main/java/base/MobileAPI2.java">
-      <provider selected="true" editor-type-id="text-editor" />
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1215">
+          <caret line="81" column="172" selection-start-line="81" selection-start-column="172" selection-end-line="81" selection-end-column="172" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="285">
+          <caret line="19" column="48" lean-forward="true" selection-start-line="19" selection-start-column="48" selection-end-line="19" selection-end-column="48" />
+        </state>
+      </provider>
     </entry>
   </component>
   <component name="masterDetails">
